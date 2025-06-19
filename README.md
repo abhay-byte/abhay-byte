@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm @abhay-byte 👋
 
-<!--
-**abhay-byte/abhay-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently diving deeper into Next.js, MERN Stack, Game Developement and GenAI.
+  
+- 💞️ I'm excited to collaborate on open-source projects, indie game developments. If you're building something cool, let's talk!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can best reach me via email at `abhay.byte02@gmail.com`, connect with me on [LinkedIn](https://linkedin.com/in/abhay03raj/), or check out my projects on my [Portfolio](https://abhayraj-porfolio.web.app/).
+   * Also find me on [Behance](https://www.behance.net/abhay-raj) and my [Google Developer Profile](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push mobile hardware. Running Linux on Android or benchmarking the latest SoCs isn't just cool, it's about understanding and maximizing the potential of these incredible all-in-one devices.
+
+Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
