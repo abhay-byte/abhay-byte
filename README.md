@@ -1,5 +1,6 @@
 # Hi, I'm @abhay-byte  
 <img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="150" align="right">
+
 - 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
 
 - 🌱 I'm currently diving deeper into Next.js, MERN Stack, Game Developement and GenAI.
