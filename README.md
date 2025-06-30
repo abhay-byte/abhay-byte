@@ -16,16 +16,16 @@
   
 Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
 
-
 ## 📊 GitHub Stats & 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay-byte&show_icons=true&theme=tokyonight)
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay-byte&show_icons=true&theme=gruvbox&no-frame=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-byte&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-byte&layout=compact&theme=gruvbox&no-frame=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhay-byte&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 📅 GitHub Contribution Calendar
 
