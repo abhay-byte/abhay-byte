@@ -33,6 +33,86 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ![GitHub Contribution Calendar](https://github.com/abhay-byte/abhay-byte/blob/output/github-contribution-grid-snake-dark.svg)
 
+<h2 align="left" style="color:orange;">👥 Friends Section</h2>
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFA500&center=false&vCenter=true&repeat=false&width=800&lines=Some+of+my+amazing+friends+on+GitHub+❤️" alt="Typing SVG"/>
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abimomin">
+        <img src="https://avatars.githubusercontent.com/u/145465021?s=130&v=4" width="75px" alt="alokranjan07" />
+        <br />
+        <sub style="color:orange;">Alok Ranjan</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bhumika1534">
+        <img src="https://avatars.githubusercontent.com/u/134226791?v=4" width="75px" alt="bhumika1534" />
+        <br />
+        <sub style="color:orange;">Bhumika Choudhary</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/brownpanthera">
+        <img src="https://avatars.githubusercontent.com/u/68064523?s=130&v=4" width="75px" alt="brownpanthera" />
+        <br />
+        <sub style="color:orange;">Ali Faizan</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JICA98">
+        <img src="https://avatars.githubusercontent.com/u/44204157?s=130&v=4" width="75px" alt="JICA98" />
+        <br />
+        <sub style="color:orange;">JICA98</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mayank30092">
+        <img src="https://avatars.githubusercontent.com/u/140531434?s=130&v=4" width="75px" alt="mayank30092" />
+        <br />
+        <sub style="color:orange;">Mayank Mittal</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PriyanshuGupta1102">
+        <img src="https://avatars.githubusercontent.com/u/198954890?s=130&v=4" width="75px" alt="PriyanshuGupta1102" />
+        <br />
+        <sub style="color:orange;">Priyanshu Gupta</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/screechingghost">
+        <img src="https://avatars.githubusercontent.com/u/66155573?s=130&v=4" width="75px" alt="screechingghost" />
+        <br />
+        <sub style="color:orange;">Roshan Alex</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Shashankshekharjha7">
+        <img src="https://avatars.githubusercontent.com/u/132138267?s=130&v=4" width="75px" alt="Shashankshekharjha7" />
+        <br />
+        <sub style="color:orange;">Shashank Shekhar</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spakigamer">
+        <img src="https://avatars.githubusercontent.com/u/83716612?s=130&v=4" width="75px" alt="spakigamer" />
+        <br />
+        <sub style="color:orange;">Dhruv Goel</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 ## Have a cup of coffee ☕ and chillll.....
 
 <img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0a%2F12%2Fe1%2F0a12e130650543cf5b165a008d1604e3.gif&f=1&nofb=1&ipt=45d19651bf4a3af0a3691646e1c9d0b6acb834d575e26fb01a868e2243e32fbd" width="600" align="center">
