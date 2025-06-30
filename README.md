@@ -12,15 +12,36 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push mobile hardware. Running Linux on Android or benchmarking the latest SoCs isn't just cool, it's about understanding and maximizing the potential of these incredible all-in-one devices.
+- ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push hardware. Running Linux on Android or benchmarking.
   
 Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
 
-## 📊 GitHub Stats & 🏆 Trophies
+## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay-byte&show_icons=true&theme=gruvbox&no-frame=true)
+
+## 📚 Tech Stack
+
+| Domain | Technologies |
+|--------|--------------|
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mui,bootstrap" /> |
+| **Middleware / API** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| **Backend Development** | <img src="https://skillicons.dev/icons?i=py,java,cs,vercel,azure,aws,gcp,firebase" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /> |
+| **Data Science & AI** | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,selenium" />  |
+| **Game Development** | <img src="https://skillicons.dev/icons?i=unity,cs,figma,blender" /> |
+| **Dev Tools & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,webstorm,eclipse,neovim,anaconda,docker,postman" /> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows" /> |
+
+<hr>
+
+
+
+
+## 📊 GitHub Stats
+
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay-byte&show_icons=true&theme=gruvbox&no-frame=true&hide=contribs&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-byte&layout=compact&theme=gruvbox&no-frame=true)
 
@@ -33,7 +54,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ![GitHub Contribution Calendar](https://github.com/abhay-byte/abhay-byte/blob/output/github-contribution-grid-snake-dark.svg)
 
-<h2 align="left" style="color:orange;">👥 Friends Section</h2>
+<h2 align="left" style="color:#FFA500;">🤜🤛 Friends Section</h2>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -44,74 +65,86 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Abimomin">
+      <a href="https://github.com/alokranjan07" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/145465021?s=130&v=4" width="75px" alt="alokranjan07" />
         <br />
-        <sub style="color:orange;">Alok Ranjan</sub>
+        <sub style="color:#FFA500;">Alok Ranjan</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/bhumika1534">
+      <a href="https://github.com/bhumika1534" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/134226791?v=4" width="75px" alt="bhumika1534" />
         <br />
-        <sub style="color:orange;">Bhumika Choudhary</sub>
+        <sub style="color:#FFA500;">Bhumika Choudhary</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/brownpanthera">
+      <a href="https://github.com/brownpanthera" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/68064523?s=130&v=4" width="75px" alt="brownpanthera" />
         <br />
-        <sub style="color:orange;">Ali Faizan</sub>
+        <sub style="color:#FFA500;">Ali Faizan</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/JICA98">
+      <a href="https://github.com/JICA98" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/44204157?s=130&v=4" width="75px" alt="JICA98" />
         <br />
-        <sub style="color:orange;">JICA98</sub>
+        <sub style="color:#FFA500;">JICA98</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/mayank30092">
+      <a href="https://github.com/mayank30092" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/140531434?s=130&v=4" width="75px" alt="mayank30092" />
         <br />
-        <sub style="color:orange;">Mayank Mittal</sub>
+        <sub style="color:#FFA500;">Mayank Mittal</sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PriyanshuGupta1102">
+      <a href="https://github.com/PriyanshuGupta1102" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/198954890?s=130&v=4" width="75px" alt="PriyanshuGupta1102" />
         <br />
-        <sub style="color:orange;">Priyanshu Gupta</sub>
+        <sub style="color:#FFA500;">Priyanshu Gupta</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/screechingghost">
+      <a href="https://github.com/screechingghost" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/66155573?s=130&v=4" width="75px" alt="screechingghost" />
         <br />
-        <sub style="color:orange;">Roshan Alex</sub>
+        <sub style="color:#FFA500;">Roshan Alex</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Shashankshekharjha7">
+      <a href="https://github.com/Shashankshekharjha7" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/132138267?s=130&v=4" width="75px" alt="Shashankshekharjha7" />
         <br />
-        <sub style="color:orange;">Shashank Shekhar</sub>
+        <sub style="color:#FFA500;">Shashank Shekhar</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/spakigamer">
+      <a href="https://github.com/spakigamer" style="color:#FFD700;">
         <img src="https://avatars.githubusercontent.com/u/83716612?s=130&v=4" width="75px" alt="spakigamer" />
         <br />
-        <sub style="color:orange;">Dhruv Goel</sub>
+        <sub style="color:#FFA500;">Dhruv Goel</sub>
       </a>
     </td>
   </tr>
 </table>
 
+## 🤝 Let's Connect!
 
+Hey there! I'm always excited to connect, collaborate, or just chat about tech, design, or anything creative. Feel free to reach out — I’d love to hear from you!
+
+- 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!
+- 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!
+- 🌐 **Portfolio:** [abhayraj-porfolio.web.app](https://abhayraj-porfolio.web.app/) — check out my latest work.
+- 🎨 **Behance:** [@abhay-raj](https://www.behance.net/abhay-raj) — where I share design stuff.
+- 👨‍💻 **Google Developer Profile:** [My Play Store Projects](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
+- 📸 **Instagram:** [@abhayrajx](https://www.instagram.com/abhayrajx/) — for behind-the-scenes, life, and passion projects.
+- 🐦 **Twitter (X):** [@arch_deve](https://x.com/arch_deve) — tweets, updates, and thoughts.
+
+Let’s build something awesome together! 🚀
 
 ## Have a cup of coffee ☕ and chillll.....
 
