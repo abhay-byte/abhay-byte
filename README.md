@@ -1,4 +1,5 @@
 # Hi, I'm @abhay-byte  
+
 <img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="150" align="right">
 
 - 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
@@ -28,7 +29,6 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,ts,react,nodejs,tailwind,aws,docker,git,unity,arch,neovim,postman" />
 
----
 
 <details>
 <summary>💻 Programming Languages</summary>
@@ -86,17 +86,20 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 </details>
 
----
-
-Let me know if you want custom groupings, emojis removed, or it compact for mobile view!
 
 ## 📊 GitHub Stats
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay-byte&show_icons=true&theme=gruvbox&no-frame=true&hide=contribs&include_all_commits=true&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=false" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-byte&layout=compact&theme=gruvbox&no-frame=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 📅 GitHub Contribution Calendar
