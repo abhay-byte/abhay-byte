@@ -27,11 +27,11 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 |--------|--------------|
 | **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mui,bootstrap" /> |
 | **Middleware / API** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Backend Development** | <img src="https://skillicons.dev/icons?i=py,java,cs,vercel,azure,aws,gcp,firebase" /> |
+| **Backend Development** | <img src="https://skillicons.dev/icons?i=vercel,azure,aws,gcp,firebase" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /> |
 | **Data Science & AI** | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,selenium" />  |
-| **Game Development** | <img src="https://skillicons.dev/icons?i=unity,cs,figma,blender" /> |
-| **Dev Tools & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,webstorm,eclipse,neovim,anaconda,docker,postman" /> |
+| **Game Development** | <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,figma,blender" /> |
+| **Dev Tools & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,webstorm,eclipse,visualstudio,vim,neovim,git,anaconda,docker,postman" /> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows" /> |
 
 <hr>
@@ -144,8 +144,11 @@ Hey there! I'm always excited to connect, collaborate, or just chat about tech, 
 - 📸 **Instagram:** [@abhayrajx](https://www.instagram.com/abhayrajx/) — for behind-the-scenes, life, and passion projects.
 - 🐦 **Twitter (X):** [@arch_deve](https://x.com/arch_deve) — tweets, updates, and thoughts.
 
-Let’s build something awesome together! 🚀
 
-## Have a cup of coffee ☕ and chillll.....
+## ☕ Have a Cup of Coffee & Chillll.....
+
+Thanks for scrolling this far — you’re awesome!
+Whether you're here to connect, collaborate, or just explore, take a breath, sip something warm,
+and enjoy the journey. Let's build cool stuff together. 🚀
 
 <img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0a%2F12%2Fe1%2F0a12e130650543cf5b165a008d1604e3.gif&f=1&nofb=1&ipt=45d19651bf4a3af0a3691646e1c9d0b6acb834d575e26fb01a868e2243e32fbd" width="600" align="center">
