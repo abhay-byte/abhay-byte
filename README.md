@@ -21,23 +21,74 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 [![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 📚 Tech Stack
 
-| Domain | Technologies |
-|--------|--------------|
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mui,bootstrap" /> |
-| **Middleware / API** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Backend Development** | <img src="https://skillicons.dev/icons?i=vercel,azure,aws,gcp,firebase" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /> |
-| **Data Science & AI** | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,selenium" />  |
-| **Game Development** | <img src="https://skillicons.dev/icons?i=unity,unreal,godot,cpp,cs,figma,blender" /> |
-| **Dev Tools & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,webstorm,eclipse,visualstudio,vim,neovim,git,anaconda,docker,postman" /> |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows" /> |
+## 🛠️ My Tech Toolbox
 
-<hr>
+### 🚀 Core Highlights
 
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,py,ts,react,nodejs,tailwind,aws,docker,git,unity,arch,neovim,postman" />
 
+---
 
+<details>
+<summary>💻 Programming Languages</summary>
+
+| Category             | Technologies                                                      |
+| -------------------- | ----------------------------------------------------------------- |
+| **Core Languages**   | <img src="https://skillicons.dev/icons?i=cpp,java,cs,py,js,ts" /> |
+| **Markup & Styling** | <img src="https://skillicons.dev/icons?i=html,css" />             |
+
+</details>
+
+<details>
+<summary>🌐 Web Development</summary>
+
+| Category                | Technologies                                                               |
+| ----------------------- | -------------------------------------------------------------------------- |
+| **Frontend Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs" />                  |
+| **CSS Frameworks & UI** | <img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap" />        |
+| **Backend / API**       | <img src="https://skillicons.dev/icons?i=nodejs,express" />                |
+| **Databases**           | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /> |
+
+</details>
+
+<details>
+<summary>☁️ Cloud, Hosting & DevOps</summary>
+
+| Category             | Technologies                                                 |
+| -------------------- | ------------------------------------------------------------ |
+| **Cloud Providers**  | <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />   |
+| **Hosting & BaaS**   | <img src="https://skillicons.dev/icons?i=vercel,firebase" /> |
+| **Containerization** | <img src="https://skillicons.dev/icons?i=docker" />          |
+| **Version Control**  | <img src="https://skillicons.dev/icons?i=git" />             |
+
+</details>
+
+<details>
+<summary>🔬 Specialized Fields</summary>
+
+| Category                 | Technologies                                                                |
+| ------------------------ | --------------------------------------------------------------------------- |
+| **Data Science & AI**    | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,anaconda" /> |
+| **Game Engines**         | <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />             |
+| **Design & 3D Modeling** | <img src="https://skillicons.dev/icons?i=figma,blender" />                  |
+
+</details>
+
+<details>
+<summary>🧰 Tools & Software</summary>
+
+| Category              | Technologies                                                                                 |
+| --------------------- | -------------------------------------------------------------------------------------------- |
+| **IDEs & Editors**    | <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,eclipse,vim,neovim" /> |
+| **API & Automation**  | <img src="https://skillicons.dev/icons?i=postman,selenium" />                                |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows" />                |
+
+</details>
+
+---
+
+Let me know if you want custom groupings, emojis removed, or it compact for mobile view!
 
 ## 📊 GitHub Stats
 
