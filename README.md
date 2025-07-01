@@ -2,7 +2,7 @@
 
 <img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="150" align="right">
 <p align="left">
-  <a href="https://github.com/abhay-byte"><img src="https://komarev.com/ghpvc/?username=abhay-byte&color=green&labelColor=1b5e20&style=for-the-badge"/><a/>
+  <a href="https://github.com/abhay-byte"><img src="https://komarev.com/ghpvc/?username=abhay-byte&color=1b5e20&labelColor=darkblue&style=for-the-badge"/><a/>
   <a href="https://github.com/abhay-byte?tab=followers">
     <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=f9a825&labelColor=1b5e20" alt="GitHub Followers" />
   </a>
@@ -123,9 +123,6 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=false" />
 </a>
-
-[![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhay-byte&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 📅 GitHub Contribution Calendar
 
