@@ -14,6 +14,7 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push hardware. Running Linux on Android or benchmarking.
+
   
 Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
 
@@ -32,6 +33,9 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <details>
 <summary>💻 Programming Languages</summary>
+  
+</br>
+
 
 | Category             | Technologies                                                      |
 | -------------------- | ----------------------------------------------------------------- |
@@ -42,6 +46,9 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <details>
 <summary>🌐 Web Development</summary>
+  
+</br>
+
 
 | Category                | Technologies                                                               |
 | ----------------------- | -------------------------------------------------------------------------- |
@@ -54,6 +61,8 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <details>
 <summary>☁️ Cloud, Hosting & DevOps</summary>
+  
+</br>
 
 | Category             | Technologies                                                 |
 | -------------------- | ------------------------------------------------------------ |
@@ -66,6 +75,9 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <details>
 <summary>🔬 Specialized Fields</summary>
+  
+</br>
+
 
 | Category                 | Technologies                                                                |
 | ------------------------ | --------------------------------------------------------------------------- |
@@ -77,6 +89,9 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <details>
 <summary>🧰 Tools & Software</summary>
+  
+</br>
+
 
 | Category              | Technologies                                                                                 |
 | --------------------- | -------------------------------------------------------------------------------------------- |
@@ -90,14 +105,15 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=gruvbox" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=gruvbox&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=gruvbox&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=false" />
 </a>
+
 
 
 
@@ -206,3 +222,23 @@ Whether you're here to connect, collaborate, or just explore, take a breath, sip
 and enjoy the journey. Let's build cool stuff together. 🚀
 
 <img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0a%2F12%2Fe1%2F0a12e130650543cf5b165a008d1604e3.gif&f=1&nofb=1&ipt=45d19651bf4a3af0a3691646e1c9d0b6acb834d575e26fb01a868e2243e32fbd" width="600" align="center">
+
+<details>
+<summary>✨ Something More About Me</summary>
+
+<br/>
+
+## 🌱 My Hobbies
+
+• Gardening (Outdoor & Indoor Plants) 🪴🌿  
+• Helping Others 🤝  
+• Linux Power User 🐧 _(I use Arch Linux btw )_ 😂  
+• Tech Enthusiast 💻🛠️  
+• Anime Lover 🎌 _(One Piece)_  
+• Manhwa Reader 📖 _(Overgeared)_  
+• Light Novel Reader 📚 _(Legendary Moonlight Sculptor)_  
+• Workout (Gym) 🏋️  
+• Track & Field 🏃‍♂️  
+• Badminton 🏸
+
+</details>
