@@ -2,13 +2,15 @@
 
 <img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="150" align="right">
 <p align="left">
-  <a href="https://github.com/abhay-byte"><img src="https://komarev.com/ghpvc/?username=abhay-byte&color=1b5e20&labelColor=darkblue&style=for-the-badge"/><a/>
-  <a href="https://github.com/abhay-byte?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=f9a825&labelColor=1b5e20" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/abhay-byte?tab=repositories">
-    <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=f9a825&labelColor=1b5e20" alt="GitHub Stars" />
-  </a>
+  <a href="https://github.com/abhay-byte">
+  <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=88C0D0&labelColor=2E3440&style=for-the-badge"/>
+</a>
+<a href="https://github.com/abhay-byte?tab=followers">
+  <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=88C0D0&labelColor=2E3440" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/abhay-byte?tab=repositories">
+  <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=88C0D0&labelColor=2E3440" alt="GitHub Stars" />
+</a>
 </p>
 
 
@@ -30,7 +32,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=aura&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=nord&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -115,13 +117,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=synthwave&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=nord&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=synthwave&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=nord&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=synthwave&hide_border=false" />
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=nord&hide_border=false" />
 </a>
 
 ## 📅 GitHub Contribution Calendar
@@ -134,7 +136,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## ⏱️ Dedicated to Time Statistics (via WakaTime)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=synthwave" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=nord&layout=compact" alt="WakaTime Stats" />
 </p>
 
 <!--START_SECTION:waka-->
