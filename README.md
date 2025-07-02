@@ -30,7 +30,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=aura&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -115,13 +115,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=gruvbox&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=synthwave&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=gruvbox&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=synthwave&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=false" />
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=synthwave&hide_border=false" />
 </a>
 
 ## 📅 GitHub Contribution Calendar
@@ -134,7 +134,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## ⏱️ Dedicated to Time Statistics (via WakaTime)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=gruvbox" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=synthwave" alt="WakaTime Stats" />
 </p>
 
 <!--START_SECTION:waka-->
