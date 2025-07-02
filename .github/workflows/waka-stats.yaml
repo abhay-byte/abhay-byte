@@ -12,7 +12,7 @@ jobs:
       - name: waka-readme-stats
         uses: miermontoto/waka-readme-stats@v5
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           SHOW_OS: true
