@@ -1,16 +1,16 @@
 # Hi, I'm @abhay-byte  
+<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" align="right">
 
-<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="150" align="right">
 <p align="left">
   <a href="https://github.com/abhay-byte">
-  <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=88C0D0&labelColor=2E3440&style=for-the-badge"/>
-</a>
-<a href="https://github.com/abhay-byte?tab=followers">
-  <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=88C0D0&labelColor=2E3440" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/abhay-byte?tab=repositories">
-  <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=88C0D0&labelColor=2E3440" alt="GitHub Stars" />
-</a>
+    <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=fe53bb&labelColor=232946&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/abhay-byte?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/abhay-byte?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Stars" />
+  </a>
 </p>
 
 
@@ -27,12 +27,12 @@
 
 - ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push hardware. Running Linux on Android or benchmarking.
 
-  
+
 Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=nord&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=radical&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -117,13 +117,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=nord&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=radical&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=nord&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=radical&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=nord&hide_border=false" />
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=radical&hide_border=false" />
 </a>
 
 ## 📅 GitHub Contribution Calendar
@@ -136,7 +136,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## ⏱️ Dedicated to Time Statistics (via WakaTime)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=nord&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=radical&layout=compact" alt="WakaTime Stats" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -241,7 +241,7 @@ Thanks for scrolling this far — you’re awesome!
 Whether you're here to connect, collaborate, or just explore, take a breath, sip something warm,
 and enjoy the journey. Let's build cool stuff together. 🚀
 
-<img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0a%2F12%2Fe1%2F0a12e130650543cf5b165a008d1604e3.gif&f=1&nofb=1&ipt=45d19651bf4a3af0a3691646e1c9d0b6acb834d575e26fb01a868e2243e32fbd" width="600" align="center">
+<img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F1599d7107019725.5f9d3c7bae636.gif&f=1&nofb=1&ipt=accde32924c806abcb9a936796abd0ebf13ccd883f9a85b69061719193b84ea9" width="600" align="center">
 
 <details>
 <summary>✨ Something More About Me</summary>
