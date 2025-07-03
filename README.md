@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/abhay-byte">
-    <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=fe53bb&labelColor=232946&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=232946&labelColor=232946&style=for-the-badge"/>
   </a>
   <a href="https://github.com/abhay-byte?tab=followers">
     <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Followers" />
