@@ -1,6 +1,6 @@
 # Hi, I'm @abhay-byte  
 
-<p align="left">
+<p align="left>
   <a href="https://github.com/abhay-byte">
     <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=232946&labelColor=232946&style=for-the-badge"/>
   </a>
@@ -22,6 +22,10 @@
 
 - 📫 You can best reach me via email at `abhay.byte02@gmail.com`, connect with me on [LinkedIn](https://www.linkedin.com/in/abhay-byte/), or check out my projects on my [Portfolio](https://abhayraj-porfolio.web.app/).
    * Also find me on [Behance](https://www.behance.net/abhay-raj) and my [Google Developer Profile](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
+   * **Portfolio:** [abhay-raj.web.app/](https://abhay-raj.web.app/) <!-- Added Portfolio in intro -->
+   </br>
+   <img src="src/PORTFOLIO.png" width="400" align="center" />
+
 
 - 😄 Pronouns: He/Him
 
@@ -113,6 +117,63 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 </details>
 
+<!-- PROJECTS SECTION START -->
+## 🛠️✨ Projects
+
+### [Investment Growth Prediction](https://github.com/abhay-byte/AI_WRAPPER_PROJECTS) ([Live Demo](https://aiwrapper.streamlit.app))
+*Apr 2025 - Present*  `
+**Tech:** Python (Streamlit, Pandas, Numpy, Plotly, GenAI)  
+- AI-powered tool to predict investment growth over time.
+- Users input monthly contributions to simulate outcomes for various asset types.
+- Generates CSV reports and graphical insights for informed decisions.
+- **Skills:** pandas, NumPy, Streamlit, GenAI, Full-Stack Development, Google Gemini  
+
+<!-- Replace above with your actual image URL if hosted, or use the following local path if in repo: -->
+<!-- ![Investment Growth Prediction](/path/to/your/image/Investment_Growth_Over_Time.jpg) -->
+<img src="src/AI-WRAPPER.png" width="600" align="center" />
+
+---
+
+### [Final Benchmark 2025](https://gitlab.com/abhayraj/final-benchmark-2025)
+*Jun 2024 - Present*  
+**Tech:** Unity, C#  
+- Open source Android benchmark app for CPU, GPU, RAM, Storage.
+- **Skills:** Unity, C#, Full-Stack Development  
+
+<img src="src/FB-2025.png" width="400" />
+
+---
+
+### [Task.Web.App](https://github.com/abhay-byte/task_management_tool)
+*Mar 2025 - Apr 2025*  
+**Tech:** MERN (React.js, Express.js, MongoDB, Node.js), MUI, GCP  
+- Task management web app for organizing and tracking daily tasks.
+- User authentication, authorization, and statistics visualization.
+- **Skills:** React.js, Node.js, MongoDB, Express.js, Material-UI, GCP, Full-Stack Development  
+<img src="src/TASK-WEB-APP.png" width="400" />
+
+---
+
+### [SocSpecs](https://github.com/abhay-byte/fb_nextjs)
+*Sep 2024 - Nov 2024*  
+**Tech:** Next.js, PostgreSQL, TailwindCSS, Vercel, AWS  
+- Platform for smartphone SoC specs, comparisons, and benchmarks.
+- **Skills:** AWS, PostgreSQL, Web Development, Tailwind CSS, Next.js, Full-Stack Development  
+
+<img src="src/SOC-SPECS.png" width="400" />
+
+---
+
+### Fantasy Racing - Star Alliance
+*Game Project*  
+**Tech:** Unity, C#, Blender  
+- Sci-fi racing game with planetary environments, power-ups, upgrades, and multiplayer features.
+- Compete, earn reputation, unlock achievements, and join guilds.
+- **Skills:** Unity, Game Programming, C#, Blender, Game Design, Game Development, Full-Stack Development  
+
+<img src="src/GAME-FANTASY_RACER.png" width="600" />
+
+<!-- PROJECTS SECTION END -->
 
 ## 📊 GitHub Stats
 
