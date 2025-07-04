@@ -120,7 +120,12 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 <!-- PROJECTS SECTION START -->
 ## 🛠️✨ Projects
 
-### [Investment Growth Prediction](https://github.com/abhay-byte/AI_WRAPPER_PROJECTS) ([Live Demo](https://aiwrapper.streamlit.app))
+<details>
+<summary>Expand Section</summary>
+
+<br/>
+
+### [Investment Growth Prediction](https://github.com/abhay-byte/AI_WRAPPER_PROJECTS) ([Live Demo](https://aiwrapper.streamlit.app)) (WIP)
 *Apr 2025 - Present*  `
 **Tech:** Python (Streamlit, Pandas, Numpy, Plotly, GenAI)  
 - AI-powered tool to predict investment growth over time.
@@ -134,7 +139,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ---
 
-### [Final Benchmark 2025](https://gitlab.com/abhayraj/final-benchmark-2025)
+### [Final Benchmark 2025](https://gitlab.com/abhayraj/final-benchmark-2025) (WIP)
 *Jun 2024 - Present*  
 **Tech:** Unity, C#  
 - Open source Android benchmark app for CPU, GPU, RAM, Storage.
@@ -144,7 +149,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ---
 
-### [Task.Web.App](https://github.com/abhay-byte/task_management_tool)
+### [Task.Web.App](https://github.com/abhay-byte/task_management_tool) (WIP)
 *Mar 2025 - Apr 2025*  
 **Tech:** MERN (React.js, Express.js, MongoDB, Node.js), MUI, GCP  
 - Task management web app for organizing and tracking daily tasks.
@@ -154,7 +159,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ---
 
-### [SocSpecs](https://github.com/abhay-byte/fb_nextjs)
+### [SocSpecs](https://github.com/abhay-byte/fb_nextjs) (WIP)
 *Sep 2024 - Nov 2024*  
 **Tech:** Next.js, PostgreSQL, TailwindCSS, Vercel, AWS  
 - Platform for smartphone SoC specs, comparisons, and benchmarks.
@@ -164,7 +169,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ---
 
-### Fantasy Racing - Star Alliance
+### [Fantasy Racing - Star Alliance](https://play.google.com/store/apps/details?id=com.ivarnagames.fantasyracer&hl=en_US&gl=US) (WIP)
 *Game Project*  
 **Tech:** Unity, C#, Blender  
 - Sci-fi racing game with planetary environments, power-ups, upgrades, and multiplayer features.
@@ -174,17 +179,18 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 <img src="src/GAME-FANTASY_RACER.png" width="600" />
 
 <!-- PROJECTS SECTION END -->
+</details>
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=radical&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=tokyonight&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=radical&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=tokyonight&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=radical&hide_border=false" />
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=tokyonight&hide_border=false" />
 </a>
 
 ## 📅 GitHub Contribution Calendar
