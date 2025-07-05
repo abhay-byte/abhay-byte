@@ -184,13 +184,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=radical&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=tokyonight&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=radical&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=tokyonight&hide_border=false" />
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=radical&hide_border=false" />
 </a>
 
 ## 📅 GitHub Contribution Calendar
