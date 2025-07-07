@@ -9,7 +9,7 @@
   </a>
   <a href="https://github.com/abhay-byte?tab=repositories">
     <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Stars" />
-  </a>
+
 </p>
 
 <img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="225" align="right">
@@ -201,7 +201,9 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <!-- WakaTime Stats -->
 ## ⏱️ Dedicated to Time Statistics (via WakaTime)
-
+  <a href="https://wakatime.com/@51db33f3-500d-41d1-8b86-324d18566249">
+    <img src="https://wakatime.com/badge/user/51db33f3-500d-41d1-8b86-324d18566249.svg" alt = ""/>
+  </a>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=radical&layout=compact" alt="WakaTime Stats" />
 </p>
