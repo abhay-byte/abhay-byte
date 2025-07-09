@@ -310,7 +310,7 @@ Thanks for scrolling this far — you’re awesome!
 Whether you're here to connect, collaborate, or just explore, take a breath, sip something warm,
 and enjoy the journey. Let's build cool stuff together. 🚀
 
-<img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F1599d7107019725.5f9d3c7bae636.gif&f=1&nofb=1&ipt=accde32924c806abcb9a936796abd0ebf13ccd883f9a85b69061719193b84ea9" width="600" align="center">
+<img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdvdizzy.com%2Fassets%2Fimages%2Fdvd-coffee2.gif&f=1&ipt=a2ca06b58be62f726c9e18288cc09d92e93c901931f1ff258f6df4206f2cf655" width="600" align="center">
 
 <details>
 <summary>✨ Something More About Me</summary>
