@@ -22,10 +22,6 @@
 
 - 📫 You can best reach me via email at `abhay.byte02@gmail.com`, connect with me on [LinkedIn](https://www.linkedin.com/in/abhay-byte/), or check out my projects on my [Portfolio](https://abhayraj-porfolio.web.app/).
    * Also find me on [Behance](https://www.behance.net/abhay-raj) and my [Google Developer Profile](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
-   * **Portfolio:** [abhay-raj.web.app/](https://abhay-raj.web.app/) <!-- Added Portfolio in intro -->
-   </br>
-   <img src="src/PORTFOLIO.png" width="400" align="center" />
-
 
 - 😄 Pronouns: He/Him
 
@@ -105,7 +101,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <details>
 <summary>🧰 Tools & Software</summary>
-  
+
 </br>
 
 
