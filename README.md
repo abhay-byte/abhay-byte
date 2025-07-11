@@ -307,7 +307,6 @@ Whether you're here to connect, collaborate, or just explore, take a breath, sip
 and enjoy the journey. Let's build cool stuff together. 🚀
 
 <img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdvdizzy.com%2Fassets%2Fimages%2Fdvd-coffee2.gif&f=1&ipt=a2ca06b58be62f726c9e18288cc09d92e93c901931f1ff258f6df4206f2cf655" width="600" align="center">
-
 <details>
 <summary>✨ Something More About Me</summary>
 
