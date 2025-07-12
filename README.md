@@ -61,7 +61,6 @@ Feel free to connect, collaborate, and share the passion for building amazing th
   
 </br>
 
-
 | Category                | Technologies                                                               |
 | ----------------------- | -------------------------------------------------------------------------- |
 | **Frontend Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs" />                  |
