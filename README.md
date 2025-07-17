@@ -9,7 +9,6 @@
   </a>
   <a href="https://github.com/abhay-byte?tab=repositories">
     <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Stars" />
-
 </p>
 
 <img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="225" align="right">
