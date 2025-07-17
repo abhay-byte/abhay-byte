@@ -313,7 +313,7 @@ and enjoy the journey. Let's build cool stuff together. 🚀
 
 ## 🌱 My Hobbies
 
-• Gardening (Outdoor & Indoor Plants) 🪴🌿  
+• Gardening 🪴🌿  
 • Helping Others 🤝  
 • Linux Power User 🐧 _(I use Arch Linux btw )_ 😂  
 • Tech Enthusiast 💻🛠️  
