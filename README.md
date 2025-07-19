@@ -1,24 +1,25 @@
+
 # Hi, I'm @abhay-byte  
 
 <p align="left>
   <a href="https://github.com/abhay-byte">
-    <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=232946&labelColor=232946&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=282828&labelColor=282828&style=for-the-badge"/>
   </a>
   <a href="https://github.com/abhay-byte?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/abhay-byte?tab=repositories">
-    <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fe53bb&labelColor=232946" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="GitHub Stars" />
   </a>
   <a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=232946&color=fe53bb&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
   </a>
   <a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=232946&color=fe53bb&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
   </a>
 </p>
 
-<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="225" align="right">
+<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="225" align="right">
 
 - 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
 
@@ -38,7 +39,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=radical&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎖️ Leetcode Badges
 
@@ -192,13 +193,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=radical&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=gruvbox&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=radical&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
+  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=gruvbox&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=radical&hide_border=false" />
+  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=false" />
 </a>
 
 ## 📅 GitHub Contribution Calendar
@@ -211,7 +212,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 <p>
   <a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=232946&color=fe53bb&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
   </a>
 </p>
 
@@ -223,7 +224,7 @@ Feel free to connect, collaborate, and share the passion for building amazing th
     <img src="https://wakatime.com/badge/user/51db33f3-500d-41d1-8b86-324d18566249.svg" alt = ""/>
   </a>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=radical&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=gruvbox&layout=compact" alt="WakaTime Stats" />
 </p>
 
 <!--START_SECTION:waka-->
