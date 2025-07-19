@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="225" align="right">
+<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="225" align="right">
 
 - 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
 
@@ -305,6 +305,22 @@ Feel free to connect, collaborate, and share the passion for building amazing th
         <img src="https://avatars.githubusercontent.com/u/83716612?s=130&v=4" width="75px" alt="spakigamer" />
         <br />
         <sub style="color:#FFA500;">Dhruv Goel</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tejas-2011" style="color:#FFD700;">
+        <img src="https://avatars.githubusercontent.com/u/203834203?v=4" width="75px" alt="tejas2011" />
+        <br />
+        <sub style="color:#FFA500;">Tejaswini Singh</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+      <a href="https://github.com/singhallmayank" style="color:#FFD700;">
+        <img src="https://avatars.githubusercontent.com/u/145895923?v=4" width="75px" alt="singhallmayank" />
+        <br />
+        <sub style="color:#FFA500;">Mayank Singhal</sub>
       </a>
     </td>
   </tr>
