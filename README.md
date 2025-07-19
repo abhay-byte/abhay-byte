@@ -207,6 +207,16 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 ![GitHub Contribution Calendar](https://github.com/abhay-byte/abhay-byte/blob/output/github-contribution-grid-snake-dark.svg)
 
+## </> Leetcode Stats
+
+<p>
+  <a href="https://leetcode.com/u/abhay-byte/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=232946&color=fe53bb&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
+  </a>
+</p>
+
+![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/abhay-byte?theme=neutral)
+
 <!-- WakaTime Stats -->
 ## ⏱️ Dedicated to Time Statistics (via WakaTime)
   <a href="https://wakatime.com/@51db33f3-500d-41d1-8b86-324d18566249">
