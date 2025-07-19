@@ -40,6 +40,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=radical&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🎖️ Leetcode Badges
+
+<p align="left>
+<a href="https://github.com/abhay-byte">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhay-byte&theme=dracula&animated=true" alt="LeetCode Badges" />
+</a>
+</p>
 
 
 ## 🛠️ My Tech Toolbox
