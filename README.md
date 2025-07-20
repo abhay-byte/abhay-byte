@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img alt="code cool stuff" src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="225" align="right">
+<img alt="code cool stuff" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwMTQ4NzksIm5iZiI6MTc1MzAxNDU3OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIwVDEyMjkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNDI1YWFjZTI5MmEyNjRlMWYwNTJlMjBlNTg1OGNkOWYwM2RlNWQ0Nzg5ODMyYTJlOGNjNTYzMGE4NmQ0MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ArI6NFAg9SHGqQmkO9NtqV8vCJeBj_gO1z3pHiXtOH0" width="225" align="right">
 
 - 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
 
