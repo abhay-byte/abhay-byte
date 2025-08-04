@@ -33,7 +33,6 @@
 
 - ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push hardware. Running Linux on Android or benchmarking.
 
-
 Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
 
 ## 🏆 GitHub Trophies
