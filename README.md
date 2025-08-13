@@ -10,9 +10,6 @@
   <a href="https://github.com/abhay-byte?tab=repositories">
     <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="GitHub Stars" />
   </a>
-  <a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
-  </a>
 </p>
 
 <img alt="code cool stuff" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwMTQ4NzksIm5iZiI6MTc1MzAxNDU3OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIwVDEyMjkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNDI1YWFjZTI5MmEyNjRlMWYwNTJlMjBlNTg1OGNkOWYwM2RlNWQ0Nzg5ODMyYTJlOGNjNTYzMGE4NmQ0MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ArI6NFAg9SHGqQmkO9NtqV8vCJeBj_gO1z3pHiXtOH0" width="225" align="right">
@@ -56,7 +53,6 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 <summary>💻 Programming Languages</summary>
   
 </br>
-
 
 | Category             | Technologies                                                      |
 | -------------------- | ----------------------------------------------------------------- |
@@ -204,7 +200,9 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 ![GitHub Contribution Calendar](https://github.com/abhay-byte/abhay-byte/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## </> Leetcode Stats
-
+  <a href="https://leetcode.com/u/abhay-byte/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
+  </a>
 <p>
   <a href="https://leetcode.com/u/abhay-byte/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
