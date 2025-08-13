@@ -33,13 +33,6 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🎖️ Leetcode Badges
-
-<p align="left>
-<a href="https://github.com/abhay-byte">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhay-byte&theme=dracula&animated=true" alt="LeetCode Badges" />
-</a>
-</p>
 
 
 ## 🛠️ My Tech Toolbox
@@ -207,6 +200,12 @@ Feel free to connect, collaborate, and share the passion for building amazing th
   <a href="https://leetcode.com/u/abhay-byte/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
   </a>
+</p>
+
+<p align="left>
+<a href="https://github.com/abhay-byte">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhay-byte&theme=dracula&animated=true" alt="LeetCode Badges" />
+</a>
 </p>
 
 ![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/abhay-byte?theme=neutral)
