@@ -318,6 +318,13 @@ Feel free to connect, collaborate, and share the passion for building amazing th
         <sub style="color:#FFA500;">Mayank Singhal</sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://github.com/kryonic-fluke" style="color:#FFD700;">
+        <img src="https://avatars.githubusercontent.com/u/156591909?v=4" width="75px" alt="singhallmayank" />
+        <br />
+        <sub style="color:#FFA500;">Suyash Upadhyay</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
