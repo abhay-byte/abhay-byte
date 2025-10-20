@@ -357,11 +357,11 @@ and enjoy the journey. Let's build cool stuff together. 🚀
 
 • Gardening 🪴🌿  
 • Helping Others 🤝  
-• Linux Power User 🐧 _(I use Arch Linux btw )_ 😂 (Currently fedora)
+• Linux Power User 🐧
 • Tech Enthusiast 💻🛠️  
-• Anime Lover 🎌 _(One Piece)_  
-• Manhwa Reader 📖 _(Overgeared)_  
-• Light Novel Reader 📚 _(Legendary Moonlight Sculptor)_  
+• Anime Lover 🎌 
+• Manhwa Reader 📖
+• Novel Reader 
 • Workout (Gym) 🏋️  
 • Track & Field 🏃‍♂️  
 • Badminton 🏸
