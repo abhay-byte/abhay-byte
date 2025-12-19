@@ -17,26 +17,21 @@
 
 <img alt="code cool stuff" src="gif.gif" width="225" align="right">
 
-- 👀 I'm interested in Mobile Develeopment, Web Development, Game Development, Metaverse and AI.
+Hey there! I'm always excited to connect, collaborate, or just chat about tech, design, or anything creative. Feel free to reach out — I’d love to hear from you!
 
-- 🌱 I'm currently diving deeper into Next.js, MERN Stack, Game Developement and GenAI.
-  
-- 💞️ I'm excited to collaborate on open-source projects, indie game developments. If you're building something cool, let's talk!
-
-- 📫 You can best reach me via email at `abhay.byte02@gmail.com`, connect with me on [LinkedIn](https://www.linkedin.com/in/abhay-byte/), or check out my projects on my [Portfolio](https://abhayraj-porfolio.web.app/).
-   * Also find me on [Behance](https://www.behance.net/abhay-raj) and my [Google Developer Profile](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I love tinkering with tech, especially exploring how far we can push hardware. Running Linux on Android or benchmarking.
-
-Feel free to connect, collaborate, and share the passion for building amazing things with code, whether it's for the web or a game engine! Let's learn and grow together. 🚀
+- 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!
+- 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!
+- 🌐 **Portfolio:** [abhayraj-porfolio.web.app](https://abhayraj-porfolio.web.app/) — check out my latest work.
+- 🎨 **Behance:** [@abhay-raj](https://www.behance.net/abhay-raj) — where I share design stuff.
+- 👨‍💻 **Google Developer Profile:** [My Play Store Projects](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
+- 📸 **Instagram:** [@abhayrajx](https://www.instagram.com/abhayrajx/) — for behind-the-scenes, life, and passion projects.
+- 🐦 **Twitter (X):** [@arch_deve](https://x.com/arch_deve) — tweets, updates, and thoughts.
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://hacked-github-stat-trophies.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠️ My Tech Toolbox
 
@@ -116,66 +111,8 @@ Feel free to connect, collaborate, and share the passion for building amazing th
 <!-- PROJECTS SECTION START -->
 ## 🛠️✨ Projects
 
-<details>
-<summary>Expand Section</summary>
 
-<br/>
-
-### [Investment Growth Prediction](https://github.com/abhay-byte/AI_WRAPPER_PROJECTS) ([Live Demo](https://aiwrapper.streamlit.app)) (WIP)
-*Apr 2025 - Present*  `
-**Tech:** Python (Streamlit, Pandas, Numpy, Plotly, GenAI)  
-- AI-powered tool to predict investment growth over time.
-- Users input monthly contributions to simulate outcomes for various asset types.
-- Generates CSV reports and graphical insights for informed decisions.
-- **Skills:** pandas, NumPy, Streamlit, GenAI, Full-Stack Development, Google Gemini  
-
-<!-- Replace above with your actual image URL if hosted, or use the following local path if in repo: -->
-<!-- ![Investment Growth Prediction](/path/to/your/image/Investment_Growth_Over_Time.jpg) -->
-<img src="src/AI-WRAPPER.png" width="600" align="center" />
-
----
-
-### [Final Benchmark 2025](https://gitlab.com/abhayraj/final-benchmark-2025) (WIP)
-*Jun 2024 - Present*  
-**Tech:** Unity, C#  
-- Open source Android benchmark app for CPU, GPU, RAM, Storage.
-- **Skills:** Unity, C#, Full-Stack Development  
-
-<img src="src/FB-2025.png" width="400" />
-
----
-
-### [Task.Web.App](https://github.com/abhay-byte/task_management_tool) (WIP)
-*Mar 2025 - Apr 2025*  
-**Tech:** MERN (React.js, Express.js, MongoDB, Node.js), MUI, GCP  
-- Task management web app for organizing and tracking daily tasks.
-- User authentication, authorization, and statistics visualization.
-- **Skills:** React.js, Node.js, MongoDB, Express.js, Material-UI, GCP, Full-Stack Development  
-<img src="src/TASK-WEB-APP.png" width="400" />
-
----
-
-### [SocSpecs](https://github.com/abhay-byte/fb_nextjs) (WIP)
-*Sep 2024 - Nov 2024*  
-**Tech:** Next.js, PostgreSQL, TailwindCSS, Vercel, AWS  
-- Platform for smartphone SoC specs, comparisons, and benchmarks.
-- **Skills:** AWS, PostgreSQL, Web Development, Tailwind CSS, Next.js, Full-Stack Development  
-
-<img src="src/SOC-SPECS.png" width="400" />
-
----
-
-### [Fantasy Racing - Star Alliance](https://play.google.com/store/apps/details?id=com.ivarnagames.fantasyracer&hl=en_US&gl=US) (WIP)
-*Game Project*  
-**Tech:** Unity, C#, Blender  
-- Sci-fi racing game with planetary environments, power-ups, upgrades, and multiplayer features.
-- Compete, earn reputation, unlock achievements, and join guilds.
-- **Skills:** Unity, Game Programming, C#, Blender, Game Design, Game Development, Full-Stack Development  
-
-<img src="src/GAME-FANTASY_RACER.png" width="600" />
-
-<!-- PROJECTS SECTION END -->
-</details>
+![](https://github-contributor-stats.vercel.app/api?username=abhay-byte&limit=10&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ## 📊 GitHub Stats
 
@@ -328,17 +265,8 @@ Feel free to connect, collaborate, and share the passion for building amazing th
   </tr>
 </table>
 
-## 🤝 Let's Connect!
 
-Hey there! I'm always excited to connect, collaborate, or just chat about tech, design, or anything creative. Feel free to reach out — I’d love to hear from you!
 
-- 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!
-- 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!
-- 🌐 **Portfolio:** [abhayraj-porfolio.web.app](https://abhayraj-porfolio.web.app/) — check out my latest work.
-- 🎨 **Behance:** [@abhay-raj](https://www.behance.net/abhay-raj) — where I share design stuff.
-- 👨‍💻 **Google Developer Profile:** [My Play Store Projects](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
-- 📸 **Instagram:** [@abhayrajx](https://www.instagram.com/abhayrajx/) — for behind-the-scenes, life, and passion projects.
-- 🐦 **Twitter (X):** [@arch_deve](https://x.com/arch_deve) — tweets, updates, and thoughts.
 
 
 ## ☕ Have a Cup of Coffee & Chillll.....
@@ -348,22 +276,4 @@ Whether you're here to connect, collaborate, or just explore, take a breath, sip
 and enjoy the journey. Let's build cool stuff together. 🚀
 
 <img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdvdizzy.com%2Fassets%2Fimages%2Fdvd-coffee2.gif&f=1&ipt=a2ca06b58be62f726c9e18288cc09d92e93c901931f1ff258f6df4206f2cf655" width="600" align="center">
-<details>
-<summary>✨ Something More About Me</summary>
 
-<br/>
-
-## 🌱 My Hobbies
-
-• Gardening 🪴🌿  
-• Helping Others 🤝  
-• Linux Power User 🐧
-• Tech Enthusiast 💻🛠️  
-• Anime Lover 🎌 
-• Manhwa Reader 📖
-• Novel Reader 
-• Workout (Gym) 🏋️  
-• Track & Field 🏃‍♂️  
-• Badminton 🏸
-
-</details>
