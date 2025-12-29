@@ -19,6 +19,8 @@
 
 Hey there! I'm always excited to connect, collaborate, or just chat about tech, design, or anything creative. Feel free to reach out — I’d love to hear from you!
 
+
+
 - 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!
 - 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!
 - 🌐 **Portfolio:** [abhayraj-porfolio.web.app](https://abhayraj-porfolio.web.app/) — check out my latest work.
@@ -27,86 +29,18 @@ Hey there! I'm always excited to connect, collaborate, or just chat about tech, 
 - 📸 **Instagram:** [@abhayrajx](https://www.instagram.com/abhayrajx/) — for behind-the-scenes, life, and passion projects.
 - 🐦 **Twitter (X):** [@arch_deve](https://x.com/arch_deve) — tweets, updates, and thoughts.
 
-## 🏆 GitHub Trophies
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 🏆 GitHub Stats
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abhay-byte?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false&borderRadius=4)](https://git.io/awesome-stats-card)
 
 [![Trophies](https://hacked-github-stat-trophies.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## 🛠️ My Tech Toolbox
-
-### 🚀 Core Highlights
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,py,ts,react,nodejs,gcp,tailwind" />
-<img src="https://skillicons.dev/icons?i=aws,docker,unity,arch,neovim,postman" />
-
-<details>
-<summary>💻 Programming Languages</summary>
-  
-</br>
-
-| Category             | Technologies                                                      |
-| -------------------- | ----------------------------------------------------------------- |
-| **Core Languages**   | <img src="https://skillicons.dev/icons?i=cpp,java,cs,py,js,ts" /> |
-| **Markup & Styling** | <img src="https://skillicons.dev/icons?i=html,css" />             |
-
-</details>
-
-<details>
-<summary>🌐 Web Development</summary>
-  
-</br>
-
-| Category                | Technologies                                                               |
-| ----------------------- | -------------------------------------------------------------------------- |
-| **Frontend Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs" />                  |
-| **CSS Frameworks & UI** | <img src="https://skillicons.dev/icons?i=tailwind,mui,bootstrap" />        |
-| **Backend / API**       | <img src="https://skillicons.dev/icons?i=nodejs,express" />                |
-| **Databases**           | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /> |
-
-</details>
-
-<details>
-<summary>☁️ Cloud, Hosting & DevOps</summary>
-  
-</br>
-
-| Category             | Technologies                                                 |
-| -------------------- | ------------------------------------------------------------ |
-| **Cloud Providers**  | <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />   |
-| **Hosting & BaaS**   | <img src="https://skillicons.dev/icons?i=vercel,firebase" /> |
-| **Containerization** | <img src="https://skillicons.dev/icons?i=docker" />          |
-| **Version Control**  | <img src="https://skillicons.dev/icons?i=git" />             |
-
-</details>
-
-<details>
-<summary>🔬 Specialized Fields</summary>
-  
-</br>
-
-
-| Category                 | Technologies                                                                |
-| ------------------------ | --------------------------------------------------------------------------- |
-| **Data Science & AI**    | <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,anaconda" /> |
-| **Game Engines**         | <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />             |
-| **Design & 3D Modeling** | <img src="https://skillicons.dev/icons?i=figma,blender" />                  |
-
-</details>
-
-<details>
-<summary>🧰 Tools & Software</summary>
-
-</br>
-
-
-| Category              | Technologies                                                                                 |
-| --------------------- | -------------------------------------------------------------------------------------------- |
-| **IDEs & Editors**    | <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,eclipse,vim,neovim" /> |
-| **API & Automation**  | <img src="https://skillicons.dev/icons?i=postman,selenium" />                                |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows" />                |
-
-</details>
+<div align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay-byte&theme=gruvbox" alt="Abhay Raj's GitHub Achievements" />
+</div>
 
 <!-- PROJECTS SECTION START -->
 ## 🛠️✨ Projects
@@ -114,17 +48,6 @@ Hey there! I'm always excited to connect, collaborate, or just chat about tech, 
 
 ![](https://github-contributor-stats.vercel.app/api?username=abhay-byte&limit=10&theme=gruvbox&combine_all_yearly_contributions=true)
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=abhay-byte&theme=gruvbox&margin-w=10&margin-h=10" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-byte&theme=gruvbox&layout=compact&langs_count=8&card_width=320&margin-w=10&margin-h=10" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" style="margin: 10px;" src="https://streak-stats.demolab.com?user=abhay-byte&theme=gruvbox&hide_border=false" />
-</a>
 
 ## 📅 GitHub Contribution Calendar
 
@@ -132,36 +55,9 @@ Hey there! I'm always excited to connect, collaborate, or just chat about tech, 
 
 ![GitHub Contribution Calendar](https://github.com/abhay-byte/abhay-byte/blob/output/github-contribution-grid-snake-dark.svg)
 
-## </> Leetcode Stats
-  <a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
-  </a>
-<p>
-  <a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
-  </a>
-</p>
 
-<p align="left>
-<a href="https://github.com/abhay-byte">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhay-byte&theme=dracula&animated=true" alt="LeetCode Badges" />
-</a>
-</p>
 
-![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/abhay-byte?theme=neutral)
 
-<!-- WakaTime Stats -->
-## ⏱️ Dedicated to Time Statistics (via WakaTime)
-  <a href="https://wakatime.com/@51db33f3-500d-41d1-8b86-324d18566249">
-    <img src="https://wakatime.com/badge/user/51db33f3-500d-41d1-8b86-324d18566249.svg" alt = ""/>
-  </a>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhay_byte&theme=gruvbox&layout=compact" alt="WakaTime Stats" />
-</p>
-
-<!--START_SECTION:waka-->
-<!--WakaTime stats will be inserted here automatically by GitHub Action if enabled-->
-<!--END_SECTION:waka-->
 
 
 <h2 align="left" style="color:#FFA500;">🤜🤛 Friends Section</h2>
