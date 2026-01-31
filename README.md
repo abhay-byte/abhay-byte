@@ -31,8 +31,6 @@ Check out my latest resume with all my experience, skills, and achievements!
 
 ## My Projects
 
-### Android Applications
-
 | Icon | Project | Description | Screenshot | Links |
 |:----:|---------|-------------|:----------:|-------|
 | <img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" width="40"/> | **FluxLinux** | Run full Linux desktop environments on Android with GPU acceleration and dev stacks | <img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/screenshots/desktop.png" width="75"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/fluxlinux) [![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/packages/com.ivarna.fluxlinux) [![Stars](https://img.shields.io/github/stars/abhay-byte/fluxlinux?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/fluxlinux/stargazers) |
