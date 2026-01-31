@@ -10,166 +10,62 @@
   <a href="https://github.com/abhay-byte?tab=repositories">
     <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="GitHub Stars" />
   </a>
-<a href="https://leetcode.com/u/abhay-byte/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=282828&color=fabd2f&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhay-byte&logo=leetcode&logoColor=yellow" alt="Leetcode" />
-  </a>
 </p>
 
 <img alt="code cool stuff" src="gif.gif" width="225" align="right">
 
-Hey there! I'm always excited to connect, collaborate, or just chat about tech, design, or anything creative. Feel free to reach out — I’d love to hear from you!
+## 👨‍💻 About Me
 
-
+Open source enthusiast and **FOSS developer** 🐧 | Proud **Linux user** | Passionate about community-driven development and making software accessible for everyone. Reach me through - 
 
 - 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!
 - 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!
-- 🌐 **Portfolio:** [abhayraj-porfolio.web.app](https://abhayraj-porfolio.web.app/) — check out my latest work.
-- 🎨 **Behance:** [@abhay-raj](https://www.behance.net/abhay-raj) — where I share design stuff.
-- 👨‍💻 **Google Developer Profile:** [My Play Store Projects](https://play.google.com/store/apps/dev?id=8004929841101888920&hl=en_US&gl=US&pli=1)
-- 📸 **Instagram:** [@abhayrajx](https://www.instagram.com/abhayrajx/) — for behind-the-scenes, life, and passion projects.
-- 🐦 **Twitter (X):** [@arch_deve](https://x.com/arch_deve) — tweets, updates, and thoughts.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Download_Resume-fabd2f?style=for-the-badge&logo=adobeacrobatreader&logoColor=282828&labelColor=282828)](https://github.com/abhay-byte/my-resume/releases/latest)
+
+Check out my latest resume with all my experience, skills, and achievements!
+
+
+
+## 🚀 Featured Projects
+
+| Icon | Project | Description | Links |
+|:----:|---------|-------------|-------|
+| <img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" width="40"/> | **FluxLinux** | Run full Linux desktop environments on Android with GPU acceleration and dev stacks | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/fluxlinux) [![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/packages/com.ivarna.fluxlinux) [![Stars](https://img.shields.io/github/stars/abhay-byte/fluxlinux?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/fluxlinux/stargazers) |
+| <img src="https://raw.githubusercontent.com/abhay-byte/finalbenchmark-platform/main/assets/logo_2.png" width="40"/> | **FinalBenchmark 2** | Comprehensive CPU benchmarking app with 10+ tests and thermal management | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/finalbenchmark-platform) [![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/packages/com.ivarna.finalbenchmark2) [![Stars](https://img.shields.io/github/stars/abhay-byte/finalbenchmark-platform?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/finalbenchmark-platform/stargazers) |
+| <img src="https://github.com/abhay-byte/DeviceInsight/raw/master/assets/logo.webp" width="40"/> | **DeviceInsight** | Premium system monitoring with glassmorphism UI and real-time analytics | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/deviceinsight) [![Stars](https://img.shields.io/github/stars/abhay-byte/deviceinsight?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/deviceinsight/stargazers) |
+| <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQFQkTNSV5-M4Q/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1711133372955?e=1770458400&v=beta&t=G6BnerL6wb0nLRocUdc3HtJpsI_jn7VXs9Jld_q4S_o" width="40"/> | **Fantasy Racing** | High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/planet-racing) [![Stars](https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/planet-racing/stargazers) |
+| <img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" width="40"/> | **Clinico** | AI-powered healthcare platform with 24/7 AI companion, telehealth, and hyperlocal clinic discovery | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/minor-project-gtbit) [![Website](https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=react&logoColor=white)](https://clinicofrontend.onrender.com/) [![Backend](https://img.shields.io/badge/Backend-68A063?style=for-the-badge&logo=node.js&logoColor=white)](https://minor-project-gtbit.onrender.com/) [![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://clinico-ai-service.onrender.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/dFDrEe30gtdNb1QFVKWNv2/Clinico---UI-UX) [![Stars](https://img.shields.io/github/stars/abhay-byte/minor-project-gtbit?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/minor-project-gtbit/stargazers) |
+| <img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" width="40"/> | **Clinico Frontend** | Professional & Admin portal with doctor dashboard, patient management, and NGO partner interface | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/Clinicofrontend) [![Website](https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=react&logoColor=white)](https://clinicofrontend.onrender.com/) [![Stars](https://img.shields.io/github/stars/abhay-byte/Clinicofrontend?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/Clinicofrontend/stargazers) |
+| <img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" width="40"/> | **Clinico Flutter** | Cross-platform mobile app for Clinico healthcare platform built with Flutter | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/clinico-flutter) [![Stars](https://img.shields.io/github/stars/abhay-byte/clinico-flutter?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/clinico-flutter/stargazers) |
+| <img src="https://github.com/abhay-byte/mkm/raw/main/assets/logo.png" width="40"/> | **MKM** | Minimal Kernel Manager for persistent swap management with Shizuku support | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/mkm) [![Stars](https://img.shields.io/github/stars/abhay-byte/mkm?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/mkm/stargazers) |
+| 🌐 | **My Portfolio** | Personal portfolio website showcasing projects, skills, and experience with responsive design | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/my-portfolio) [![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://abhayraj-porfolio.web.app/) [![Stars](https://img.shields.io/github/stars/abhay-byte/my-portfolio?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/my-portfolio/stargazers) |
+| 🎨 | **WebGL Website** | Interactive website built with WebGL for stunning 3D graphics and animations | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/webgl-website) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhay-raj.web.app/) [![Stars](https://img.shields.io/github/stars/abhay-byte/webgl-website?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/webgl-website/stargazers) |
+| 📊 | **Investment Growth Prediction** | AI-powered investment growth predictor with monthly contribution simulations, CSV reports, and graphical insights for informed financial decisions | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/AI_WRAPPER_PROJECTS) [![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aiwrapper.streamlit.app) [![Stars](https://img.shields.io/github/stars/abhay-byte/AI_WRAPPER_PROJECTS?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/AI_WRAPPER_PROJECTS/stargazers) |
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🏆 GitHub Stats
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abhay-byte?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false&borderRadius=4)](https://git.io/awesome-stats-card)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)](https://github.com/piyushsuthar/github-readme-quotes)
+
 [![Trophies](https://hacked-github-stat-trophies.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay-byte&theme=gruvbox" alt="Abhay Raj's GitHub Achievements" />
 </div>
-
-<!-- PROJECTS SECTION START -->
-## 🛠️✨ Projects
-
-
-![](https://github-contributor-stats.vercel.app/api?username=abhay-byte&limit=10&theme=gruvbox&combine_all_yearly_contributions=true)
-
-
-## 📅 GitHub Contribution Calendar
-
-<!-- GitHub contribution calendar image -->
-
-![GitHub Contribution Calendar](https://github.com/abhay-byte/abhay-byte/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
-
-
-<h2 align="left" style="color:#FFA500;">🤜🤛 Friends Section</h2>
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFA500&center=false&vCenter=true&repeat=false&width=800&lines=Some+of+my+amazing+friends+on+GitHub+❤️" alt="Typing SVG"/>
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/alokranjan07" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/145465021?s=130&v=4" width="75px" alt="alokranjan07" />
-        <br />
-        <sub style="color:#FFA500;">Alok Ranjan</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bhumika1534" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/134226791?v=4" width="75px" alt="bhumika1534" />
-        <br />
-        <sub style="color:#FFA500;">Bhumika Choudhary</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/brownpanthera" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/68064523?s=130&v=4" width="75px" alt="brownpanthera" />
-        <br />
-        <sub style="color:#FFA500;">Ali Faizan</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JICA98" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/44204157?s=130&v=4" width="75px" alt="JICA98" />
-        <br />
-        <sub style="color:#FFA500;">JICA98</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mayank30092" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/140531434?s=130&v=4" width="75px" alt="mayank30092" />
-        <br />
-        <sub style="color:#FFA500;">Mayank Mittal</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PriyanshuGupta1102" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/198954890?s=130&v=4" width="75px" alt="PriyanshuGupta1102" />
-        <br />
-        <sub style="color:#FFA500;">Priyanshu Gupta</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/screechingghost" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/66155573?s=130&v=4" width="75px" alt="screechingghost" />
-        <br />
-        <sub style="color:#FFA500;">Roshan Alex</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Shashankshekharjha7" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/132138267?s=130&v=4" width="75px" alt="Shashankshekharjha7" />
-        <br />
-        <sub style="color:#FFA500;">Shashank Shekhar</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/spakigamer" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/83716612?s=130&v=4" width="75px" alt="spakigamer" />
-        <br />
-        <sub style="color:#FFA500;">Dhruv Goel</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tejas-2011" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/203834203?v=4" width="75px" alt="tejas2011" />
-        <br />
-        <sub style="color:#FFA500;">Tejaswini Singh</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-      <td align="center">
-      <a href="https://github.com/singhallmayank" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/145895923?v=4" width="75px" alt="singhallmayank" />
-        <br />
-        <sub style="color:#FFA500;">Mayank Singhal</sub>
-      </a>
-    </td>
-      <td align="center">
-      <a href="https://github.com/kryonic-fluke" style="color:#FFD700;">
-        <img src="https://avatars.githubusercontent.com/u/156591909?v=4" width="75px" alt="singhallmayank" />
-        <br />
-        <sub style="color:#FFA500;">Suyash Upadhyay</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-## ☕ Have a Cup of Coffee & Chillll.....
-
-Thanks for scrolling this far — you’re awesome!
-Whether you're here to connect, collaborate, or just explore, take a breath, sip something warm,
-and enjoy the journey. Let's build cool stuff together. 🚀
-
-<img alt="Cloudy morning" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdvdizzy.com%2Fassets%2Fimages%2Fdvd-coffee2.gif&f=1&ipt=a2ca06b58be62f726c9e18288cc09d92e93c901931f1ff258f6df4206f2cf655" width="600" align="center">
-
