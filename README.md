@@ -18,8 +18,8 @@
 
 Open source enthusiast and **FOSS developer**, Passionate about community-driven development and making software accessible for everyone. Reach me through - 
 
-- 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!
-- 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!
+- 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!!!
+- 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!!!
 
 ## 📄 Resume
 
