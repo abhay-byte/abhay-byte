@@ -4,6 +4,7 @@ This directory contains the visual assets (GIFs and Videos) used in the main [RE
 
 | Project | GIF Preview | Source Video |
 |---------|:-----------:|:------------:|
+| **Nexus Terminal** | ![Nexus Terminal](nexus.gif) | [nexus.webm](videos/nexus.webm) |
 | **Fantasy Racing** | ![Fantasy Racing](fantasy-racing.gif) | [fantasy-racing.mp4](videos/fantasy-racing.mp4) |
 | **Story of Xirsia** | ![Xirsia](xirsia.gif) | [xirsia.mp4](videos/xirsia.mp4) |
 | **FluxLinux** | ![FluxLinux](fluxlinux.gif) | [fluxlinux-new.mp4](videos/fluxlinux-new.mp4) |

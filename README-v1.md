@@ -1,6 +1,6 @@
 # Hi, I'm @abhay-byte  
 
-<p align="left>
+<p align="left">
   <a href="https://github.com/abhay-byte">
     <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=282828&labelColor=282828&style=for-the-badge"/>
   </a>

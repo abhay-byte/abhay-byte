@@ -1,6 +1,6 @@
 # Hi, I'm @abhay-byte  
 
-<p align="left>
+<p align="left">
   <a href="https://github.com/abhay-byte">
     <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=282828&labelColor=282828&style=for-the-badge"/>
   </a>
@@ -33,6 +33,7 @@ Check out my latest resume with all my experience, skills, and achievements!
 
 | Icon | Project | Description | Screenshot | Links |
 |:----:|---------|-------------|:----------:|-------|
+| <img src="assets/nexus-logo.png" width="40"/> | **Nexus Terminal** | Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app. | <img src="assets/nexus.gif" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/nexus) [![Stars](https://img.shields.io/github/stars/abhay-byte/nexus?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/nexus/stargazers) |
 | <img src="assets/phonefinder-logo.png" width="40"/> | **Phone Finder Hub** | Data-driven smartphone comparison platform built with Laravel. It helps users identify the best value-for-money devices by analyzing objective performance benchmarks against current market prices. | <img src="assets/phonefinder-demo.gif" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/phone_finder_hub) [![Website](https://img.shields.io/badge/Website-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://phone-finder-shjs.onrender.com/) |
 | <img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" width="40"/> | **Fantasy Racing** | High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay | <img src="assets/fantasy-racing.gif" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/planet-racing) [![Stars](https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/planet-racing/stargazers) |
 | <img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/xirsia-icon.png" width="40"/> | **Story of Xirsia** | 2D Role Playing Game set in Medieval age with massive 25km² open world of Xirsia Isle to explore | <img src="assets/xirsia.gif" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/Saiko-no-senshi-0.1v) [![Website](https://img.shields.io/badge/Play_Game-FF6B6B?style=for-the-badge&logo=unity&logoColor=white)](https://hind-dev.web.app/#/) [![Stars](https://img.shields.io/github/stars/abhay-byte/Saiko-no-senshi-0.1v?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/Saiko-no-senshi-0.1v/stargazers) |
