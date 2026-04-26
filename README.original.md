@@ -1,4 +1,4 @@
-# Hi, I'm @abhay-byte — Agentic Software Engineer  
+# Hi, I'm @abhay-byte  
 
 <p align="left">
   <a href="https://github.com/abhay-byte">
@@ -14,17 +14,9 @@
 
 <img alt="code cool stuff" src="gif.gif" width="225" align="right">
 
-## 🚀 Agentic Engineer | AI-Native Developer
+## 👨‍💻 About Me
 
-I build software by **orchestrating agents, not just writing code**. My workflow is centered around modern AI tooling — from multi-agent CLI environments to MCP servers that extend AI capabilities into any system.
-
-**My Toolkit & Workflow:**
-- 🤖 **AI Agents & CLI Tools:** Claude Code, Codex CLI, Gemini CLI, Qwen, Aider — I run multi-agent terminal workspaces for complex development tasks
-- 🔌 **MCP Servers:** I design and integrate Model Context Protocol servers to give AI agents real-time access to databases, APIs, file systems, and internal tools
-- 🛠️ **AI IDEs:** Cursor, Windsurf, and VS Code with deep agentic extensions — I work inside AI-native environments where the editor itself is a collaborator
-- ⚡ **Agentic Workflow:** Not just prompting — I architect agent systems, tool-use chains, and autonomous coding pipelines that ship production code
-
-Open source enthusiast and **FOSS developer**, passionate about community-driven development and making software accessible for everyone. Reach me through - 
+Open source enthusiast and **FOSS developer**, Passionate about community-driven development and making software accessible for everyone. Reach me through - 
 
 - 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!!!
 - 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!!!
@@ -61,6 +53,7 @@ Check out my latest resume with all my experience, skills, and achievements!
 | <img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/assets/images/app_icon.png" width="40"/> | **TaskStack** | Next-generation daily task management app with a 24-hour visual timeline and life analytics | <img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/TaskStack) [![Stars](https://img.shields.io/github/stars/abhay-byte/TaskStack?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/TaskStack/stargazers) |
 | <img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/assets/icon.png" width="40"/> | **Warden Protocol** | Single-player Android strategy game where you act as bunker intelligence for survivors | <img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/warden-protocol) [![Play Store](https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ivarna.wardenprotocol) [![Stars](https://img.shields.io/github/stars/abhay-byte/warden-protocol?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/warden-protocol/stargazers) |
 | <img src="assets/adirstat-icon.png" width="40"/> | **Adirstat** | Android Disk Space Analyzer (WizTree/WinDirStat equivalent) | <img src="assets/adirstat-feature.png" width="250"/> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhay-byte/Adirstat) [![Play Store](https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ivarna.adirstat) [![Stars](https://img.shields.io/github/stars/abhay-byte/Adirstat?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white)](https://github.com/abhay-byte/Adirstat/stargazers) |
+
 
 
 
