@@ -14,19 +14,13 @@
 
 <img alt="code cool stuff" src="gif.gif" width="225" align="right">
 
-## 🚀 Agentic Engineer | AI-Native Developer
+## 🚀 About Me
 
-I build software by **orchestrating agents, not just writing code**. My workflow is centered around modern AI tooling — from multi-agent CLI environments to MCP servers that extend AI capabilities into any system.
+I build software with AI agents — not just code, but the systems that run them. My daily workflow uses **Claude Code, Codex CLI, Gemini CLI, Qwen, Aider**, and other AI tools, all managed through my own **[Nexus Terminal](https://github.com/abhay-byte/nexus)** — a multi-agent terminal workspace I built for this exact purpose. I also work with MCP servers and AI IDEs (Cursor, Windsurf) to extend what agents can do.
 
-**My Toolkit & Workflow:**
-- 🤖 **AI Agents & CLI Tools:** Claude Code, Codex CLI, Gemini CLI, Qwen, Aider — I run multi-agent terminal workspaces for complex development tasks
-- 🔌 **MCP Servers:** I design and integrate Model Context Protocol servers to give AI agents real-time access to databases, APIs, file systems, and internal tools
-- 🛠️ **AI IDEs:** Cursor, Windsurf, and VS Code with deep agentic extensions — I work inside AI-native environments where the editor itself is a collaborator
-- ⚡ **Agentic Workflow:** Not just prompting — I architect agent systems, tool-use chains, and autonomous coding pipelines that ship production code
+**Every project here is open source.** All code, all assets, no paywalls — just FOSS.
 
-**🌍 All My Projects Are Open Source**
-
-Every project I build is **100% open source and FOSS**. I believe in transparency, community-driven development, and making software accessible for everyone — no paywalls, no proprietary lock-in. All code, assets, and roadmaps are public. Reach me through - 
+Reach me through - 
 
 - 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!!!
 - 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!!!
