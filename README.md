@@ -24,7 +24,9 @@ I build software by **orchestrating agents, not just writing code**. My workflow
 - 🛠️ **AI IDEs:** Cursor, Windsurf, and VS Code with deep agentic extensions — I work inside AI-native environments where the editor itself is a collaborator
 - ⚡ **Agentic Workflow:** Not just prompting — I architect agent systems, tool-use chains, and autonomous coding pipelines that ship production code
 
-Open source enthusiast and **FOSS developer**, passionate about community-driven development and making software accessible for everyone. Reach me through - 
+**🌍 All My Projects Are Open Source**
+
+Every project I build is **100% open source and FOSS**. I believe in transparency, community-driven development, and making software accessible for everyone — no paywalls, no proprietary lock-in. All code, assets, and roadmaps are public. Reach me through - 
 
 - 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!!!
 - 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!!!
