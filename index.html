@@ -1,240 +1,1889 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Abhay Raj — Agentic Software Engineer</title>
-  <meta name="description" content="Abhay Raj — Agentic Software Engineer. Open source projects, AI tools, and more.">
-  <link rel="icon" type="image/png" href="favicon.png">
-  <style>
-    :root {
-      --bg: #282828;
-      --fg: #ebdbb2;
-      --accent: #fabd2f;
-      --dim: #a89984;
-      --link: #83a598;
-      --border: #3c3836;
-      --card-bg: #1d2021;
-    }
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      background: var(--bg);
-      color: var(--fg);
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
-      line-height: 1.6;
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 2rem 1.5rem;
-    }
-    h1, h2, h3 { color: var(--accent); margin-top: 2rem; margin-bottom: 1rem; }
-    h1 { font-size: 2rem; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
-    h2 { font-size: 1.5rem; }
-    a { color: var(--link); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    p { margin-bottom: 1rem; }
-    img { max-width: 100%; height: auto; border-radius: 6px; }
-    table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
-    th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
-    th { color: var(--accent); font-weight: 600; }
-    tr:hover { background: var(--card-bg); }
-    code { background: var(--card-bg); padding: 0.2em 0.4em; border-radius: 4px; font-size: 0.9em; }
-    hr { border: none; border-top: 2px solid var(--border); margin: 2rem 0; }
-    .header-badges { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
-    .header-badges img { border-radius: 0; }
-    .profile-img { float: right; margin: 0 0 1rem 1.5rem; border-radius: 12px; max-width: 225px; }
-    .project-icon { width: 40px; height: 40px; border-radius: 8px; object-fit: contain; display: block; }
-    .project-img { max-width: 250px; border-radius: 8px; }
-    .stats-section { text-align: center; margin: 2rem 0; }
-    .stats-section img { max-width: 100%; }
-    .badge-link { display: inline-block; }
-    .badge-link img { vertical-align: middle; }
-    @media (max-width: 640px) {
-      .profile-img { float: none; display: block; margin: 0 auto 1rem; }
-      table, thead, tbody, th, td, tr { display: block; }
-      th { display: none; }
-      td { padding: 0.5rem 0; border: none; }
-      tr { margin-bottom: 1.5rem; border-bottom: 2px solid var(--border); padding-bottom: 1rem; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Abhay Raj — Agentic Software Engineer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://cdn.jsdelivr.net/fontsource/css/space-grotesk@latest/index.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/fontsource/css/jetbrains-mono@latest/index.css" rel="stylesheet">
+<style>
+:root {
+  --bg: #1a1a1a;
+  --bg2: #282828;
+  --bg3: #3c3836;
+  --bg4: #504945;
+  --fg: #ebdbb2;
+  --fg2: #a89984;
+  --fg3: #928374;
+  --accent: #fabd2f;
+  --accent2: #ffcc00;
+  --red: #fb4934;
+  --green: #b8bb26;
+  --blue: #83a598;
+  --purple: #d3869b;
+  --aqua: #8ec07c;
+  --orange: #fe8019;
+  --border: 3px solid var(--fg);
+  --border-soft: 2px solid var(--bg3);
+  --shadow: 6px 6px 0px var(--fg);
+  --shadow-sm: 4px 4px 0px var(--fg);
+  --shadow-accent: 6px 6px 0px var(--accent);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  overflow-x: hidden;
+}
+::selection { background: var(--accent); color: var(--bg); }
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--accent); border: 2px solid var(--bg2); }
+
+/* ===== NAV ===== */
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+  background: rgba(26,26,26,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: var(--border);
+  padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.nav-logo {
+  font-weight: 700; font-size: 1.05rem;
+  color: var(--accent);
+  font-family: 'JetBrains Mono', monospace;
+  text-decoration: none;
+}
+.nav-logo span { color: var(--fg); }
+.nav-links { display: flex; gap: 22px; align-items: center; }
+.nav-links a {
+  color: var(--fg2); text-decoration: none; font-size: 0.88rem;
+  font-family: 'JetBrains Mono', monospace;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--accent); }
+.nav-links a::before { content: '> '; color: var(--accent); opacity: 0; transition: opacity 0.2s; }
+.nav-links a:hover::before { opacity: 1; }
+.nav-toggle { display: none; background: none; border: none; color: var(--accent); font-size: 1.5rem; cursor: pointer; }
+
+/* ===== HERO ===== */
+.hero {
+  min-height: 100vh;
+  display: flex; align-items: center;
+  padding: 100px 24px 60px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(circle at 15% 30%, rgba(250,189,47,0.08) 0%, transparent 45%),
+    radial-gradient(circle at 85% 70%, rgba(131,165,152,0.06) 0%, transparent 45%);
+}
+.hero-grid {
+  position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(250,189,47,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(250,189,47,0.04) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(ellipse at center, black 40%, transparent 80%);
+}
+.hero-content {
+  position: relative; z-index: 1;
+  max-width: 1200px; width: 100%; margin: 0 auto;
+  display: grid; grid-template-columns: 1.3fr 1fr; gap: 60px;
+  align-items: center;
+}
+.hero-text h2 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9rem; color: var(--accent);
+  margin-bottom: 14px;
+  animation: fadeInUp 0.6s ease both;
+}
+.hero-text h1 {
+  font-size: clamp(2.6rem, 6.5vw, 4.8rem);
+  font-weight: 700; line-height: 1.05;
+  margin-bottom: 14px;
+  animation: fadeInUp 0.6s ease 0.1s both;
+}
+.hero-text h1 span { color: var(--accent); position: relative; }
+.hero-text h1 span::after {
+  content: ''; position: absolute; bottom: 4px; left: 0; right: 0;
+  height: 6px; background: var(--accent); opacity: 0.3;
+}
+.hero-text h3 {
+  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+  color: var(--fg2); font-weight: 400;
+  margin-bottom: 24px;
+  animation: fadeInUp 0.6s ease 0.2s both;
+}
+.hero-text p {
+  color: var(--fg2); max-width: 560px; line-height: 1.75;
+  margin-bottom: 32px; font-size: 1.02rem;
+  animation: fadeInUp 0.6s ease 0.3s both;
+}
+.hero-text p strong { color: var(--accent); font-weight: 600; }
+
+.hero-badges {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin-bottom: 32px;
+  animation: fadeInUp 0.6s ease 0.4s both;
+}
+.badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.75rem;
+  padding: 5px 12px;
+  border: 2px solid var(--bg3);
+  background: var(--bg2);
+  color: var(--fg2);
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.badge.live { border-color: var(--green); color: var(--green); }
+.badge .dot { width: 6px; height: 6px; border-radius: 50%; background: currentColor; animation: pulse 2s infinite; }
+
+.hero-buttons {
+  display: flex; gap: 14px; flex-wrap: wrap;
+  animation: fadeInUp 0.6s ease 0.5s both;
+}
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 14px 28px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.88rem; font-weight: 600;
+  text-decoration: none;
+  border: 3px solid var(--fg);
+  transition: all 0.15s;
+  cursor: pointer;
+  background: transparent;
+  color: var(--fg);
+}
+.btn-primary {
+  background: var(--accent); color: var(--bg);
+  box-shadow: var(--shadow-sm);
+}
+.btn-primary:hover { transform: translate(2px,2px); box-shadow: 2px 2px 0 var(--fg); }
+.btn-secondary { background: transparent; color: var(--fg); }
+.btn-secondary:hover { background: var(--fg); color: var(--bg); transform: translate(2px,2px); box-shadow: 2px 2px 0 var(--accent); }
+
+.hero-visual {
+  position: relative;
+  animation: fadeIn 1s ease 0.6s both;
+}
+.avatar-frame {
+  width: 320px; height: 320px;
+  border: 4px solid var(--fg);
+  box-shadow: 10px 10px 0 var(--accent);
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  transition: all 0.2s;
+}
+.avatar-frame:hover { box-shadow: 6px 6px 0 var(--accent); transform: translate(4px,4px); }
+.avatar-frame img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.avatar-frame::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(135deg, transparent 60%, rgba(250,189,47,0.25));
+  pointer-events: none;
+}
+.avatar-tag {
+  position: absolute; bottom: -18px; left: 50%; transform: translateX(-50%);
+  background: var(--accent); color: var(--bg);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem; font-weight: 700;
+  padding: 7px 18px; white-space: nowrap;
+  border: 3px solid var(--fg);
+}
+
+.hero-stats {
+  margin-top: 48px;
+  display: flex; gap: 8px; flex-wrap: wrap;
+  animation: fadeInUp 0.6s ease 0.7s both;
+}
+.hero-stats img { height: 28px; }
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+/* ===== MARQUEE ===== */
+.marquee {
+  overflow: hidden;
+  border-top: var(--border);
+  border-bottom: var(--border);
+  background: var(--accent);
+  color: var(--bg);
+  padding: 14px 0;
+  white-space: nowrap;
+}
+.marquee-track {
+  display: inline-block;
+  animation: marquee 35s linear infinite;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 1rem;
+}
+.marquee-track span { margin: 0 32px; }
+.marquee-track span::after { content: '✦'; margin-left: 32px; }
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* ===== SECTIONS ===== */
+section { padding: 100px 24px; }
+.container { max-width: 1200px; margin: 0 auto; }
+
+.section-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem; color: var(--accent);
+  margin-bottom: 12px;
+  display: flex; align-items: center; gap: 10px;
+}
+.section-label::before { content: ''; width: 36px; height: 3px; background: var(--accent); }
+.section-title {
+  font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+  font-weight: 700; margin-bottom: 16px;
+  line-height: 1.1;
+}
+.section-subtitle {
+  color: var(--fg2); max-width: 640px; line-height: 1.75;
+  margin-bottom: 56px;
+  font-size: 1.05rem;
+}
+
+/* ===== ABOUT ===== */
+.about-grid {
+  display: grid; grid-template-columns: 1.2fr 1fr; gap: 60px;
+  align-items: start;
+}
+.about-text p {
+  color: var(--fg2); line-height: 1.8; margin-bottom: 18px;
+  font-size: 1.02rem;
+}
+.about-text strong { color: var(--accent); font-weight: 600; }
+
+.stats-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 16px;
+  margin-top: 32px;
+}
+.stat-card {
+  border: 3px solid var(--fg);
+  padding: 22px;
+  background: var(--bg2);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.15s;
+}
+.stat-card:hover { transform: translate(2px,2px); box-shadow: 2px 2px 0 var(--fg); }
+.stat-number {
+  font-size: 2.6rem; font-weight: 700; color: var(--accent);
+  font-family: 'JetBrains Mono', monospace;
+  line-height: 1;
+}
+.stat-label { color: var(--fg2); font-size: 0.88rem; margin-top: 6px; }
+
+.about-card {
+  border: 3px solid var(--fg);
+  background: var(--bg2);
+  padding: 28px;
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+}
+.about-card h3 {
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--accent);
+  margin-bottom: 16px;
+  font-size: 1.1rem;
+}
+.about-card h3::before { content: '// '; opacity: 0.6; }
+.about-card ul { list-style: none; }
+.about-card li {
+  padding: 9px 0;
+  border-bottom: 1px dashed var(--bg3);
+  color: var(--fg2); font-size: 0.92rem;
+  display: flex; align-items: center; gap: 10px;
+}
+.about-card li::before { content: '▸'; color: var(--accent); font-weight: bold; }
+.about-card li:last-child { border-bottom: none; }
+
+/* ===== TECH STACK ===== */
+.tech-section {
+  background: var(--bg2);
+  border-top: var(--border);
+  border-bottom: var(--border);
+}
+.tech-grid {
+  display: flex; flex-wrap: wrap; gap: 12px;
+}
+.tech-pill {
+  padding: 10px 20px;
+  border: 2px solid var(--fg);
+  background: var(--bg);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.88rem;
+  transition: all 0.15s;
+  cursor: default;
+  color: var(--fg);
+}
+.tech-pill:hover {
+  background: var(--accent); color: var(--bg);
+  transform: translate(-2px, -2px);
+  box-shadow: 4px 4px 0 var(--fg);
+}
+
+/* ===== PROJECTS ===== */
+.projects-filter {
+  display: flex; gap: 8px; flex-wrap: wrap;
+  margin-bottom: 36px;
+}
+.filter-btn {
+  padding: 9px 18px;
+  border: 2px solid var(--bg3);
+  background: transparent; color: var(--fg2);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem; cursor: pointer;
+  transition: all 0.15s;
+}
+.filter-btn:hover, .filter-btn.active {
+  border-color: var(--accent); color: var(--accent); background: var(--bg2);
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 28px;
+}
+.project-card {
+  border: 3px solid var(--fg);
+  background: var(--bg2);
+  overflow: hidden;
+  transition: all 0.2s;
+  display: flex; flex-direction: column;
+}
+.project-card:hover {
+  transform: translate(-4px, -4px);
+  box-shadow: 8px 8px 0 var(--accent);
+}
+.project-media {
+  aspect-ratio: 16/10;
+  background: var(--bg);
+  overflow: hidden;
+  border-bottom: 3px solid var(--fg);
+  position: relative;
+  display: flex; align-items: center; justify-content: center;
+}
+.project-media img {
+  width: 100%; height: 100%; object-fit: cover;
+  transition: transform 0.3s;
+}
+.project-card:hover .project-media img { transform: scale(1.04); }
+.project-category {
+  position: absolute; top: 12px; left: 12px;
+  background: var(--accent); color: var(--bg);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem; font-weight: 700;
+  padding: 5px 11px;
+  border: 2px solid var(--fg);
+  z-index: 2;
+}
+.project-body {
+  padding: 22px;
+  flex: 1; display: flex; flex-direction: column;
+}
+.project-header {
+  display: flex; align-items: center; gap: 12px;
+  margin-bottom: 14px;
+}
+.project-icon {
+  width: 46px; height: 46px;
+  border: 2px solid var(--fg);
+  background: var(--bg);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.3rem;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.project-icon img { width: 100%; height: 100%; object-fit: cover; }
+.project-name {
+  font-size: 1.2rem; font-weight: 700;
+  line-height: 1.2;
+}
+.project-desc {
+  color: var(--fg2); font-size: 0.9rem; line-height: 1.65;
+  margin-bottom: 16px; flex: 1;
+}
+.project-tags {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin-bottom: 18px;
+}
+.project-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  padding: 3px 9px;
+  border: 1px solid var(--bg3);
+  color: var(--fg2);
+}
+.project-links {
+  display: flex; gap: 8px; flex-wrap: wrap;
+  border-top: 1px dashed var(--bg3);
+  padding-top: 18px;
+}
+.project-link {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  padding: 7px 14px;
+  border: 2px solid var(--fg);
+  background: transparent; color: var(--fg);
+  text-decoration: none;
+  display: inline-flex; align-items: center; gap: 6px;
+  transition: all 0.15s;
+}
+.project-link:hover { background: var(--accent); color: var(--bg); }
+.project-link.primary { background: var(--accent); color: var(--bg); }
+.project-link.primary:hover { background: var(--fg); }
+
+/* ===== TIMELINE ===== */
+.timeline {
+  position: relative;
+  padding-left: 44px;
+}
+.timeline::before {
+  content: ''; position: absolute;
+  left: 14px; top: 0; bottom: 0;
+  width: 3px; background: var(--bg3);
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 40px;
+  padding: 28px;
+  border: 3px solid var(--fg);
+  background: var(--bg2);
+  box-shadow: var(--shadow-sm);
+  transition: all 0.15s;
+}
+.timeline-item:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--fg);
+}
+.timeline-item::before {
+  content: ''; position: absolute;
+  left: -40px; top: 32px;
+  width: 20px; height: 20px;
+  background: var(--accent);
+  border: 3px solid var(--fg);
+}
+.timeline-date {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem; color: var(--accent);
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+.timeline-role {
+  font-size: 1.3rem; font-weight: 700;
+  margin-bottom: 4px;
+}
+.timeline-company {
+  color: var(--fg2); margin-bottom: 14px;
+  font-size: 0.95rem;
+}
+.timeline-desc {
+  color: var(--fg2); font-size: 0.9rem; line-height: 1.7;
+}
+.timeline-desc li {
+  margin-bottom: 8px;
+  padding-left: 4px;
+}
+
+/* ===== SKILLS ===== */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+.skill-category {
+  border: 3px solid var(--fg);
+  background: var(--bg2);
+  padding: 26px;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.15s;
+}
+.skill-category:hover { transform: translate(2px,2px); box-shadow: 2px 2px 0 var(--fg); }
+.skill-category h3 {
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--accent);
+  font-size: 1rem;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed var(--bg3);
+}
+.skill-category h3::before { content: '$ '; opacity: 0.6; }
+.skill-list {
+  display: flex; flex-wrap: wrap; gap: 6px;
+}
+.skill-tag {
+  font-size: 0.82rem;
+  padding: 5px 11px;
+  border: 1px solid var(--bg3);
+  color: var(--fg2);
+  background: var(--bg);
+  transition: all 0.15s;
+  font-family: 'JetBrains Mono', monospace;
+}
+.skill-tag:hover {
+  border-color: var(--accent); color: var(--accent);
+  transform: translateY(-1px);
+}
+
+/* ===== GITHUB STATS ===== */
+.stats-section {
+  background: var(--bg2);
+  border-top: var(--border);
+  border-bottom: var(--border);
+}
+.github-stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: stretch;
+}
+.github-stats-grid img {
+  width: 100%; height: auto;
+  border: 3px solid var(--fg);
+  box-shadow: var(--shadow-sm);
+  background: var(--bg);
+}
+
+/* ===== NEXUS SHOWCASE ===== */
+.nexus-showcase {
+  background: var(--bg);
+  border-top: var(--border);
+  border-bottom: var(--border);
+  position: relative;
+  overflow: hidden;
+}
+.nexus-showcase::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(circle at 50% 0%, rgba(250,189,47,0.08), transparent 60%);
+  pointer-events: none;
+}
+.nexus-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 48px;
+  align-items: center;
+  position: relative;
+}
+.nexus-info h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 16px;
+  line-height: 1.1;
+}
+.nexus-info h2 span { color: var(--accent); }
+.nexus-info p {
+  color: var(--fg2); line-height: 1.75;
+  margin-bottom: 24px;
+  font-size: 1.02rem;
+}
+.nexus-features {
+  list-style: none;
+  margin-bottom: 32px;
+}
+.nexus-features li {
+  padding: 10px 0;
+  border-bottom: 1px dashed var(--bg3);
+  color: var(--fg);
+  display: flex; align-items: center; gap: 12px;
+  font-size: 0.95rem;
+}
+.nexus-features li::before {
+  content: '▸'; color: var(--accent); font-size: 1.2rem;
+}
+.nexus-features strong { color: var(--accent); }
+
+.nexus-gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 16px;
+}
+.nexus-gallery .main-shot {
+  grid-column: 1 / 3;
+  border: 3px solid var(--fg);
+  box-shadow: var(--shadow-accent);
+  overflow: hidden;
+  aspect-ratio: 16/10;
+}
+.nexus-gallery .sub-shot {
+  border: 3px solid var(--fg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  aspect-ratio: 16/10;
+}
+.nexus-gallery img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+  transition: transform 0.3s;
+}
+.nexus-gallery div:hover img { transform: scale(1.03); }
+
+/* ===== CONTACT ===== */
+.contact {
+  text-align: center;
+  padding: 120px 24px;
+  position: relative;
+}
+.contact::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(circle at 50% 50%, rgba(250,189,47,0.05), transparent 60%);
+  pointer-events: none;
+}
+.contact-box {
+  max-width: 760px; margin: 0 auto;
+  border: 4px solid var(--fg);
+  background: var(--bg2);
+  padding: 56px 40px;
+  box-shadow: 12px 12px 0 var(--accent);
+  position: relative;
+}
+.contact-box h2 {
+  font-size: clamp(2rem, 4.5vw, 3.2rem);
+  margin-bottom: 16px;
+  line-height: 1.1;
+}
+.contact-box p {
+  color: var(--fg2); line-height: 1.75;
+  margin-bottom: 36px;
+  font-size: 1.05rem;
+}
+.contact-links {
+  display: flex; gap: 12px; flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  padding: 36px 24px;
+  text-align: center;
+  border-top: var(--border);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  color: var(--fg2);
+}
+footer a { color: var(--accent); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 960px) {
+  .hero-content { grid-template-columns: 1fr; gap: 40px; text-align: center; }
+  .hero-visual { order: -1; }
+  .avatar-frame { width: 240px; height: 240px; }
+  .hero-text p { margin-left: auto; margin-right: auto; }
+  .hero-buttons, .hero-badges, .hero-stats { justify-content: center; }
+  .about-grid, .nexus-grid { grid-template-columns: 1fr; }
+  .github-stats-grid { grid-template-columns: 1fr; }
+  .nav-links {
+    display: none; position: fixed; top: 58px; left: 0; right: 0;
+    background: var(--bg); border-bottom: var(--border);
+    flex-direction: column; padding: 24px; gap: 18px;
+  }
+  .nav-links.open { display: flex; }
+  .nav-toggle { display: block; }
+}
+
+@media (max-width: 600px) {
+  section { padding: 70px 18px; }
+  .projects-grid { grid-template-columns: 1fr; }
+  .stats-grid { grid-template-columns: 1fr; }
+  .contact-box { padding: 36px 22px; box-shadow: 8px 8px 0 var(--accent); }
+  .timeline { padding-left: 32px; }
+  .timeline-item { padding: 20px; }
+  .timeline-item::before { left: -29px; width: 16px; height: 16px; top: 26px; }
+  .avatar-frame { width: 200px; height: 200px; }
+}
+
+/* ===== REVEAL ===== */
+.reveal { opacity: 0; transform: translateY(30px); transition: all 0.7s cubic-bezier(0.2,0.8,0.2,1); }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+
+/* ===== ORIGIN CHAPTERS ===== */
+.chapter-block {
+  margin-bottom: 80px;
+  position: relative;
+}
+.chapter-header {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 32px;
+  align-items: center;
+  margin-bottom: 40px;
+  padding: 32px;
+  border: 3px solid var(--fg);
+  background: var(--bg2);
+  box-shadow: var(--shadow);
+}
+.chapter-year {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 3rem; font-weight: 700;
+  color: var(--accent);
+  line-height: 1;
+}
+.chapter-title h3 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem; color: var(--fg2);
+  margin-bottom: 4px;
+}
+.chapter-title h4 {
+  font-size: 1.8rem; font-weight: 700;
+  margin-bottom: 10px;
+}
+.chapter-title p {
+  color: var(--fg2); line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+.chapter-card {
+  border: 3px solid var(--fg);
+  background: var(--bg2);
+  overflow: hidden;
+  transition: all 0.2s;
+  display: flex; flex-direction: column;
+}
+.chapter-card:hover {
+  transform: translate(-3px,-3px);
+  box-shadow: 6px 6px 0 var(--accent);
+}
+.chapter-card .project-media { aspect-ratio: 16/10; }
+.chapter-card .project-body { padding: 18px; }
+</style>
 </head>
 <body>
 
-<h1>Hi, I'm @abhay-byte — Agentic Software Engineer</h1>
+<!-- NAV -->
+<nav>
+  <a href="#" class="nav-logo"><span>~/</span>abhay-byte</a>
+  <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
+  <div class="nav-links">
+    <a href="#about">About</a>
+    <a href="#nexus">Nexus</a>
+    <a href="#origin">Origin</a>
+    <a href="#projects">Projects</a>
+    <a href="#experience">Experience</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+    <a href="https://github.com/abhay-byte/my-resume/releases/latest" target="_blank" class="btn btn-primary" style="padding:8px 16px; font-size:0.8rem;">Resume ↗</a>
+  </div>
+</nav>
 
-<div class="header-badges">
-  <a href="https://github.com/abhay-byte"><img src="https://komarev.com/ghpvc/?username=abhay-byte&color=282828&labelColor=282828&style=for-the-badge" alt="Profile views"></a>
-  <a href="https://github.com/abhay-byte?tab=followers"><img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="GitHub Followers"></a>
-  <a href="https://github.com/abhay-byte?tab=repositories"><img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="GitHub Stars"></a>
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-text">
+      <h2>// HELLO_WORLD</h2>
+      <h1>Hi, I'm <span>Abhay Raj</span></h1>
+      <h3>Agentic Software Engineer · FOSS Developer</h3>
+      <p>I build software with <strong>AI agents</strong> — not just code, but the systems that run them. My daily workflow uses Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, all orchestrated through <strong>Nexus Terminal</strong> — a multi-agent workspace I built from scratch.</p>
+
+      <div class="hero-badges">
+        <span class="badge live"><span class="dot"></span> Available for work</span>
+        <span class="badge">New Delhi, IN</span>
+        <span class="badge">B.Tech IT · 8.6 CGPA</span>
+        <span class="badge">25K+ App Installs</span>
+      </div>
+
+      <div class="hero-buttons">
+        <a href="#projects" class="btn btn-primary">View Projects →</a>
+        <a href="mailto:abhay.byte02@gmail.com" class="btn btn-secondary">📬 Email Me</a>
+        <a href="https://github.com/abhay-byte/my-resume/releases/latest" target="_blank" class="btn btn-secondary">Resume ↗</a>
+      </div>
+
+      <div class="hero-stats">
+        <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=fabd2f&labelColor=282828&style=for-the-badge" alt="Views">
+        <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="Followers">
+        <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="Stars">
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <div class="avatar-frame">
+        <img src="https://avatars.githubusercontent.com/u/64067372?v=4" alt="Abhay Raj">
+        <div class="avatar-tag">@abhay-byte</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MARQUEE -->
+<div class="marquee">
+  <div class="marquee-track">
+    <span>OPEN SOURCE</span><span>FOSS</span><span>AI AGENTS</span><span>KOTLIN</span><span>RUST</span><span>REACT</span><span>TAURI</span><span>UNITY</span><span>LINUX</span><span>LLMs</span><span>MCP</span><span>SYSTEM DESIGN</span>
+    <span>OPEN SOURCE</span><span>FOSS</span><span>AI AGENTS</span><span>KOTLIN</span><span>RUST</span><span>REACT</span><span>TAURI</span><span>UNITY</span><span>LINUX</span><span>LLMs</span><span>MCP</span><span>SYSTEM DESIGN</span>
+  </div>
 </div>
 
-<img alt="code cool stuff" src="gif.gif" class="profile-img">
+<!-- ABOUT -->
+<section id="about">
+  <div class="container">
+    <div class="section-label">01 // ABOUT</div>
+    <h2 class="section-title">Who I Am</h2>
+    <p class="section-subtitle">An open source enthusiast and FOSS developer, passionate about community-driven development and making software accessible for everyone.</p>
 
-<h2>🚀 About Me</h2>
+    <div class="about-grid reveal">
+      <div class="about-text">
+        <p>I'm an <strong>Agentic Wizard</strong> — I don't just write code, I build the systems that let AI agents write it with me.</p>
+        <p>My daily workflow is fully agentic. <strong>Claude Code, Codex CLI, Gemini CLI, Qwen, Aider</strong>, and a rotating cast of AI tools run side by side, each handling what it does best. To orchestrate all of this, I built <strong>Nexus Terminal</strong> — a multi-agent terminal workspace where multiple AI agents collaborate in parallel.</p>
+        <p>Beyond the terminal, I work extensively with <strong>MCP servers</strong> to extend what agents can actually do — giving them real tools, real context, and real capabilities beyond just generating text.</p>
+        <p>I also run a fleet of specialized bots that keep everything current automatically. The whole system runs on Android through <strong>Flux Linux</strong> — a full Linux environment, multiple AI agents, continuous background updates — all from a phone.</p>
+        <p><strong>Every project here is open source.</strong> All code, all assets, no paywalls — just FOSS, built in the open.</p>
 
-<p>I build software with AI agents — not just code, but the systems that run them. My daily workflow uses <strong>Claude Code, Codex CLI, Gemini CLI, Qwen, Aider</strong>, and other AI tools, all managed through my own <a href="https://github.com/abhay-byte/nexus"><strong>Nexus Terminal</strong></a> — a multi-agent terminal workspace I built for this exact purpose. I also work with MCP servers and AI IDEs (Cursor, Windsurf) to extend what agents can do.</p>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-number">10+</div>
+            <div class="stat-label">Projects Shipped</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">5+</div>
+            <div class="stat-label">Play Store Apps</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">25K+</div>
+            <div class="stat-label">Total Installs</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">2.6K+</div>
+            <div class="stat-label">GitHub Commits</div>
+          </div>
+        </div>
+      </div>
 
-<p><strong>Every project here is open source.</strong> All code, all assets, no paywalls — just FOSS.</p>
+      <div>
+        <div class="about-card">
+          <h3>Current Stack</h3>
+          <ul>
+            <li>Claude Code — primary AI pair programmer</li>
+            <li>Codex CLI — parallel task execution</li>
+            <li>Gemini CLI — multimodal reasoning</li>
+            <li>Qwen — long-context heavy lifting</li>
+            <li>Aider — git-native edits</li>
+            <li>Nexus Terminal — custom orchestrator</li>
+          </ul>
+        </div>
+        <div class="about-card">
+          <h3>Origin Story</h3>
+          <ul>
+            <li>Born in New Delhi, roots in Palakkad, Kerala</li>
+            <li>Schooling: Kerala Sr. Secondary School</li>
+            <li>First app at 12th grade: Final Benchmark</li>
+            <li>B.Tech IT @ GTBIT (Top ranked EWIHER 2025-26)</li>
+            <li>First job: Game Dev @ Gamified (Bengaluru)</li>
+            <li>300+ anime watched, still counting 🍥</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-<p>Reach me through:</p>
-<ul>
-  <li>📬 <strong>Email:</strong> <a href="mailto:abhay.byte02@gmail.com">abhay.byte02@gmail.com</a> — best way to reach me!!!</li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/abhay-byte/">Abhay Raj</a> — let's network!!!</li>
-</ul>
+<!-- NEXUS SHOWCASE -->
+<section id="nexus" class="nexus-showcase">
+  <div class="container">
+    <div class="nexus-grid reveal">
+      <div class="nexus-info">
+        <div class="section-label">FEATURED // NEXUS</div>
+        <h2>The <span>Nexus</span> Terminal</h2>
+        <p>A multi-agent AI terminal workspace built with Tauri + React. Run 13+ AI coding agents side-by-side — Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more. Available as both a desktop app and a standalone web server you can access from any browser on your network.</p>
 
-<h2>📄 Resume</h2>
+        <ul class="nexus-features">
+          <li><strong>13+ AI agents</strong> — auto-detected on PATH</li>
+          <li><strong>Split panes</strong> — horizontal/vertical 2×2 layouts</li>
+          <li><strong>Session persistence</strong> — survives app restarts</li>
+          <li><strong>Kanban board</strong> — Todo / In Progress / Done / Blocked</li>
+          <li><strong>True-color PTY</strong> — xterm-256color rendering</li>
+          <li><strong>Shared MCP registry</strong> — configure once, sync everywhere</li>
+          <li><strong>Brutalist UI</strong> — high-contrast dark mode, #ffcc00 accent</li>
+        </ul>
 
-<p><a href="https://github.com/abhay-byte/my-resume/releases/latest"><img src="https://img.shields.io/badge/Download_Resume-fabd2f?style=for-the-badge&logo=adobeacrobatreader&logoColor=282828&labelColor=282828" alt="Download Resume"></a></p>
+        <div style="display:flex; gap:12px; flex-wrap:wrap;">
+          <a href="https://github.com/abhay-byte/nexus" target="_blank" class="btn btn-primary">GitHub ↗</a>
+          <a href="https://github.com/abhay-byte/nexus/releases" target="_blank" class="btn btn-secondary">Download</a>
+        </div>
+      </div>
 
-<p>Check out my latest resume with all my experience, skills, and achievements!</p>
+      <div class="nexus-gallery">
+        <div class="main-shot">
+          <img src="https://github.com/abhay-byte/nexus/raw/master/docs/screenshots/1.png" alt="Nexus Main Workspace">
+        </div>
+        <div class="sub-shot">
+          <img src="https://github.com/abhay-byte/nexus/raw/master/docs/screenshots/3.png" alt="Nexus Diff View">
+        </div>
+        <div class="sub-shot">
+          <img src="https://github.com/abhay-byte/nexus/raw/master/docs/screenshots/5.png" alt="Nexus Settings">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-<h2>My Projects</h2>
+<!-- ORIGIN STORY -->
+<section id="origin">
+  <div class="container">
+    <div class="section-label">02 // ORIGIN</div>
+    <h2 class="section-title">My Journey</h2>
+    <p class="section-subtitle">From 2D RPGs to multi-agent AI systems — the chapters that shaped who I am as a builder.</p>
 
-<table>
-  <tr>
-    <th>Icon</th><th>Project</th><th>Description</th><th>Screenshot</th><th>Links</th>
-  </tr>
-  <tr>
-    <td><img src="assets/nexus-logo.png" class="project-icon" alt="Nexus"></td>
-    <td><strong>Nexus Terminal</strong></td>
-    <td>Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app.</td>
-    <td><img src="assets/nexus.gif" class="project-img" alt="Nexus demo"></td>
-    <td><a href="https://github.com/abhay-byte/nexus">GitHub</a> · <a href="https://github.com/abhay-byte/nexus/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/phonefinder-logo.png" class="project-icon" alt="Phone Finder"></td>
-    <td><strong>Phone Finder Hub</strong></td>
-    <td>Data-driven smartphone comparison platform built with Laravel. It helps users identify the best value-for-money devices by analyzing objective performance benchmarks against current market prices.</td>
-    <td><img src="assets/phonefinder-demo.gif" class="project-img" alt="Phone Finder demo"></td>
-    <td><a href="https://github.com/abhay-byte/phone_finder_hub">GitHub</a> · <a href="https://phone-finder-shjs.onrender.com/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" class="project-icon" alt="Fantasy Racing"></td>
-    <td><strong>Fantasy Racing</strong></td>
-    <td>High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay.</td>
-    <td><img src="assets/fantasy-racing.gif" class="project-img" alt="Fantasy Racing"></td>
-    <td><a href="https://github.com/abhay-byte/planet-racing">GitHub</a> · <a href="https://github.com/abhay-byte/planet-racing/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/xirsia-icon.png" class="project-icon" alt="Xirsia"></td>
-    <td><strong>Story of Xirsia</strong></td>
-    <td>2D Role Playing Game set in Medieval age with massive 25km² open world of Xirsia Isle to explore.</td>
-    <td><img src="assets/xirsia.gif" class="project-img" alt="Xirsia"></td>
-    <td><a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v">GitHub</a> · <a href="https://hind-dev.web.app/#/">Play Game</a> · <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" class="project-icon" alt="FluxLinux"></td>
-    <td><strong>FluxLinux</strong></td>
-    <td>Run full Linux desktop environments on Android with GPU acceleration and dev stacks.</td>
-    <td><img src="assets/fluxlinux.gif" class="project-img" alt="FluxLinux"></td>
-    <td><a href="https://github.com/abhay-byte/fluxlinux">GitHub</a> · <a href="https://f-droid.org/packages/com.ivarna.fluxlinux">F-Droid</a> · <a href="https://github.com/abhay-byte/fluxlinux/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/finalbenchmark-platform/main/assets/logo_2.png" class="project-icon" alt="FinalBenchmark"></td>
-    <td><strong>FinalBenchmark 2</strong></td>
-    <td>Comprehensive CPU benchmarking app with 10+ tests and thermal management.</td>
-    <td><img src="assets/FinalBenchmark2.gif" class="project-img" style="max-width:125px" alt="FinalBenchmark"></td>
-    <td><a href="https://github.com/abhay-byte/finalbenchmark-platform">GitHub</a> · <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2">F-Droid</a> · <a href="https://github.com/abhay-byte/finalbenchmark-platform/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/abhay-byte/DeviceInsight/raw/master/assets/logo.webp" class="project-icon" alt="DeviceInsight"></td>
-    <td><strong>DeviceInsight</strong></td>
-    <td>Premium system monitoring with glassmorphism UI and real-time analytics.</td>
-    <td><img src="assets/DeviceInsight.gif" class="project-img" style="max-width:125px" alt="DeviceInsight"></td>
-    <td><a href="https://github.com/abhay-byte/deviceinsight">GitHub</a> · <a href="https://github.com/abhay-byte/deviceinsight/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/abhay-byte/mkm/raw/main/assets/logo.png" class="project-icon" alt="MKM"></td>
-    <td><strong>MKM</strong></td>
-    <td>Minimal Kernel Manager for persistent swap management with Shizuku support.</td>
-    <td><img src="assets/MKM.gif" class="project-img" style="max-width:125px" alt="MKM"></td>
-    <td><a href="https://github.com/abhay-byte/mkm">GitHub</a> · <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm">Play Store</a> · <a href="https://github.com/abhay-byte/mkm/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" class="project-icon" alt="Clinico"></td>
-    <td><strong>Clinico</strong></td>
-    <td>AI-powered healthcare platform with 24/7 AI companion, telehealth, and hyperlocal clinic discovery.</td>
-    <td><img src="assets/clinico.gif" class="project-img" alt="Clinico"></td>
-    <td><a href="https://github.com/abhay-byte/minor-project-gtbit">GitHub</a> · <a href="https://clinicofrontend.onrender.com/">Website</a> · <a href="https://minor-project-gtbit.onrender.com/">Backend</a> · <a href="https://clinico-ai-service.onrender.com/">AI</a> · <a href="https://www.figma.com/design/dFDrEe30gtdNb1QFVKWNv2/Clinico---UI-UX">Figma</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/my-portfolio/main/public/favicon.ico" class="project-icon" alt="Portfolio"></td>
-    <td><strong>My Portfolio</strong></td>
-    <td>Personal portfolio website showcasing projects, skills, and experience with responsive design.</td>
-    <td><img src="assets/my-portfolio.gif" class="project-img" alt="Portfolio"></td>
-    <td><a href="https://github.com/abhay-byte/my-portfolio">GitHub</a> · <a href="https://abhayraj-porfolio.web.app/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/my-portfolio/main/public/favicon.ico" class="project-icon" alt="WebGL"></td>
-    <td><strong>WebGL Website</strong></td>
-    <td>Interactive website built with WebGL for stunning 3D graphics and animations.</td>
-    <td><img src="assets/webgl.gif" class="project-img" alt="WebGL"></td>
-    <td><a href="https://github.com/abhay-byte/webgl-website">GitHub</a> · <a href="https://abhay-raj.web.app/">Website</a></td>
-  </tr>
-  <tr>
-    <td><strong>📊</strong></td>
-    <td><strong>Investment Growth Prediction</strong></td>
-    <td>AI-powered investment growth predictor with monthly contribution simulations, CSV reports, and graphical insights for informed financial decisions.</td>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" class="project-img" alt="Investment Growth"></td>
-    <td><a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS">GitHub</a> · <a href="https://aiwrapper.streamlit.app">Live App</a></td>
-  </tr>
-  <tr>
-    <td><strong>👻</strong></td>
-    <td><strong>Whispers in the Mist</strong></td>
-    <td>Horror game set in St. Xavier's Boarding School in Ooty during Valentine's Day with mysterious occurrences.</td>
-    <td><img src="assets/whispers.gif" class="project-img" alt="Whispers"></td>
-    <td><a href="https://github.com/abhay-byte/valentines-day-unity">GitHub</a></td>
-  </tr>
-  <tr>
-    <td><strong>✨</strong></td>
-    <td><strong>ThreeJS Portfolio</strong></td>
-    <td>Interactive 3D portfolio website built with Three.js.</td>
-    <td><img src="assets/threejs-portfolio.gif" class="project-img" alt="ThreeJS Portfolio"></td>
-    <td><a href="https://github.com/abhay-byte/threejs_portfolio">GitHub</a> · <a href="https://abhay-byte.web.app/">Website</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/assets/truvalt_icon.png" class="project-icon" alt="Truvalt"></td>
-    <td><strong>Truvalt</strong></td>
-    <td>Secure, self-hostable, zero-knowledge password manager for Android and web.</td>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/fastlane/metadata/android/en-US/images/featureGraphic.png" class="project-img" alt="Truvalt"></td>
-    <td><a href="https://github.com/abhay-byte/truvalt">GitHub</a> · <a href="https://github.com/abhay-byte/truvalt/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/allwidgets-icon.png" class="project-icon" alt="AllWidgets"></td>
-    <td><strong>AllWidgets</strong></td>
-    <td>Widget suite with polished home-screen experiences for multiple device skins.</td>
-    <td><img src="assets/allwidgets-feature.png" class="project-img" alt="AllWidgets"></td>
-    <td><a href="https://github.com/abhay-byte/allwidgets">GitHub</a> · <a href="https://github.com/abhay-byte/allwidgets/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/assets/images/app_icon.png" class="project-icon" alt="TaskStack"></td>
-    <td><strong>TaskStack</strong></td>
-    <td>Next-generation daily task management app with a 24-hour visual timeline and life analytics.</td>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" class="project-img" alt="TaskStack"></td>
-    <td><a href="https://github.com/abhay-byte/TaskStack">GitHub</a> · <a href="https://github.com/abhay-byte/TaskStack/stargazers">Stars</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/assets/icon.png" class="project-icon" alt="Warden Protocol"></td>
-    <td><strong>Warden Protocol</strong></td>
-    <td>Single-player Android strategy game where you act as bunker intelligence for survivors.</td>
-    <td><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" class="project-img" alt="Warden Protocol"></td>
-    <td><a href="https://github.com/abhay-byte/warden-protocol">GitHub</a> · <a href="https://play.google.com/store/apps/details?id=com.ivarna.wardenprotocol">Play Store</a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/adirstat-icon.png" class="project-icon" alt="Adirstat"></td>
-    <td><strong>Adirstat</strong></td>
-    <td>Android Disk Space Analyzer (WizTree/WinDirStat equivalent).</td>
-    <td><img src="assets/adirstat-feature.png" class="project-img" alt="Adirstat"></td>
-    <td><a href="https://github.com/abhay-byte/Adirstat">GitHub</a> · <a href="https://play.google.com/store/apps/details?id=com.ivarna.adirstat">Play Store</a></td>
-  </tr>
-</table>
+    <!-- CHAPTER I -->
+    <div class="chapter-block reveal">
+      <div class="chapter-header">
+        <div class="chapter-year">2020<br>—<br>2023</div>
+        <div class="chapter-title">
+          <h3>CHAPTER I</h3>
+          <h4>It All Started With Games</h4>
+          <p>From building 2D RPGs with massive open worlds to crafting futuristic racing experiences — I fell in love with creating digital worlds from scratch.</p>
+        </div>
+      </div>
+      <div class="chapter-grid">
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/xirsia.gif" alt="Xirsia">
+            <span class="project-category">2020 · RPG</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">Story of Xirsia</h3>
+            <p class="project-desc">2D Role Playing Game set in Medieval age with massive 25km² open world of Xirsia Isle to explore.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v" target="_blank" class="project-link primary">GitHub ↗</a>
+              <a href="https://hind-dev.web.app/#/" target="_blank" class="project-link">Play Game</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/fantasy-racing.gif" alt="Fantasy Racing">
+            <span class="project-category">2023 · RACING</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">Fantasy Racing</h3>
+            <p class="project-desc">High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/planet-racing" target="_blank" class="project-link primary">GitHub ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/whispers.gif" alt="Whispers">
+            <span class="project-category">2023 · HORROR</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">👻 Whispers in the Mist</h3>
+            <p class="project-desc">Horror game set in St. Xavier's Boarding School in Ooty during Valentine's Day with mysterious occurrences.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/valentines-day-unity" target="_blank" class="project-link primary">GitHub ↗</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<h2>🏆 GitHub Stats</h2>
+    <!-- CHAPTER II -->
+    <div class="chapter-block reveal">
+      <div class="chapter-header">
+        <div class="chapter-year">2025<br>—<br>2026</div>
+        <div class="chapter-title">
+          <h3>CHAPTER II</h3>
+          <h4>Then Came the Apps</h4>
+          <p>I shifted to building Android apps that push boundaries — from GPU-accelerated Linux on mobile to kernel managers and CPU benchmarking tools.</p>
+        </div>
+      </div>
+      <div class="chapter-grid">
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/clinico.gif" alt="Clinico">
+            <span class="project-category">NOV 2025 · FLUTTER</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">Clinico Flutter</h3>
+            <p class="project-desc">AI-powered healthcare platform with 24/7 AI companion and telehealth features.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/minor-project-gtbit" target="_blank" class="project-link primary">GitHub ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/FinalBenchmark2.gif" alt="FinalBenchmark">
+            <span class="project-category">NOV 2025 · BENCHMARK</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">FinalBenchmark 2</h3>
+            <p class="project-desc">Comprehensive CPU benchmarking app with 10+ tests and thermal management.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/finalbenchmark-platform" target="_blank" class="project-link primary">GitHub ↗</a>
+              <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2" target="_blank" class="project-link">F-Droid</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/fluxlinux.gif" alt="FluxLinux">
+            <span class="project-category">DEC 2025 · LINUX</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">FluxLinux</h3>
+            <p class="project-desc">Run full Linux desktop environments on Android with GPU acceleration and dev stacks. 117+ ⭐</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/fluxlinux" target="_blank" class="project-link primary">GitHub ↗</a>
+              <a href="https://f-droid.org/packages/com.ivarna.fluxlinux" target="_blank" class="project-link">F-Droid</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/DeviceInsight.gif" alt="DeviceInsight">
+            <span class="project-category">DEC 2025 · MONITOR</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">DeviceInsight</h3>
+            <p class="project-desc">Premium system monitoring with glassmorphism UI and real-time analytics.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/deviceinsight" target="_blank" class="project-link primary">GitHub ↗</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/MKM.gif" alt="MKM">
+            <span class="project-category">JAN 2026 · KERNEL</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">MKM</h3>
+            <p class="project-desc">Minimal Kernel Manager for persistent swap management with Shizuku support. 56+ ⭐</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/mkm" target="_blank" class="project-link primary">GitHub ↗</a>
+              <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm" target="_blank" class="project-link">Play Store</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<div class="stats-section">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abhay-byte?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false&borderRadius=4" alt="GitHub Stats">
-  <br><br>
-  <img src="https://hacked-github-stat-trophies.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies">
-</div>
+    <!-- CHAPTER III -->
+    <div class="chapter-block reveal">
+      <div class="chapter-header">
+        <div class="chapter-year">2025<br>—<br>∞</div>
+        <div class="chapter-title">
+          <h3>CHAPTER III</h3>
+          <h4>Building for Everyone</h4>
+          <p>Open source became my north star. Every project I build is for the community — free, transparent, and made to empower developers everywhere.</p>
+        </div>
+      </div>
+      <div class="chapter-grid">
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" alt="Investment">
+            <span class="project-category">MAR 2025 · AI FINANCE</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">📈 Investment Growth</h3>
+            <p class="project-desc">AI-powered investment growth predictor with monthly contribution simulations and CSV reports.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS" target="_blank" class="project-link primary">GitHub ↗</a>
+              <a href="https://aiwrapper.streamlit.app" target="_blank" class="project-link">Live App</a>
+            </div>
+          </div>
+        </div>
+        <div class="chapter-card">
+          <div class="project-media">
+            <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/clinico.gif" alt="Clinico">
+            <span class="project-category">SEP 2025 · HEALTHCARE</span>
+          </div>
+          <div class="project-body">
+            <h3 class="project-name">Clinico</h3>
+            <p class="project-desc">AI-powered healthcare platform with 24/7 AI companion, telehealth, and hyperlocal clinic discovery.</p>
+            <div class="project-links">
+              <a href="https://github.com/abhay-byte/minor-project-gtbit" target="_blank" class="project-link primary">GitHub ↗</a>
+              <a href="https://clinicofrontend.onrender.com/" target="_blank" class="project-link">Live</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CHAPTER IV -->
+    <div class="chapter-block reveal">
+      <div class="chapter-header">
+        <div class="chapter-year">NOW</div>
+        <div class="chapter-title">
+          <h3>CHAPTER IV</h3>
+          <h4>Welcome to My World</h4>
+          <p>Scroll down to explore all my projects, skills, and everything I've built on this journey.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TECH STACK -->
+<section class="tech-section">
+  <div class="container">
+    <div class="section-label">03 // STACK</div>
+    <h2 class="section-title">Tech Stack</h2>
+    <p class="section-subtitle">Tools and technologies I use daily to build, ship, and orchestrate.</p>
+    <div class="tech-grid reveal">
+      <div class="tech-pill">Android (Kotlin)</div>
+      <div class="tech-pill">React</div>
+      <div class="tech-pill">Three.js</div>
+      <div class="tech-pill">Node.js</div>
+      <div class="tech-pill">Flutter</div>
+      <div class="tech-pill">Unity / C#</div>
+      <div class="tech-pill">Python</div>
+      <div class="tech-pill">Rust</div>
+      <div class="tech-pill">Tauri v2</div>
+      <div class="tech-pill">Linux / Shell</div>
+      <div class="tech-pill">WebGL</div>
+      <div class="tech-pill">Firebase</div>
+      <div class="tech-pill">Jetpack Compose</div>
+      <div class="tech-pill">Git</div>
+      <div class="tech-pill">Figma</div>
+      <div class="tech-pill">GSAP</div>
+      <div class="tech-pill">Docker</div>
+      <div class="tech-pill">Laravel</div>
+      <div class="tech-pill">TypeScript</div>
+      <div class="tech-pill">PHP</div>
+      <div class="tech-pill">MySQL</div>
+    </div>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+  <div class="container">
+    <div class="section-label">04 // WORK</div>
+    <h2 class="section-title">Featured Projects</h2>
+    <p class="section-subtitle">Everything open source. All code, all assets, no paywalls — just FOSS.</p>
+
+    <div class="projects-filter reveal">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="android">Android</button>
+      <button class="filter-btn" data-filter="web">Web</button>
+      <button class="filter-btn" data-filter="ai">AI / Agents</button>
+      <button class="filter-btn" data-filter="game">Games</button>
+      <button class="filter-btn" data-filter="tool">Tools</button>
+    </div>
+
+    <div class="projects-grid" id="projectsGrid">
+
+      <!-- NEXUS -->
+      <div class="project-card reveal" data-cat="ai tool">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/nexus.gif" alt="Nexus" loading="lazy">
+          <span class="project-category">AI / TOOL</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">🖥️</div>
+            <h3 class="project-name">Nexus Terminal</h3>
+          </div>
+          <p class="project-desc">Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app.</p>
+          <div class="project-tags">
+            <span class="project-tag">Tauri</span>
+            <span class="project-tag">React</span>
+            <span class="project-tag">Rust</span>
+            <span class="project-tag">TypeScript</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/nexus" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://github.com/abhay-byte/nexus/stargazers" target="_blank" class="project-link">⭐ Stars</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- PHONE FINDER -->
+      <div class="project-card reveal" data-cat="web">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/phonefinder-demo.gif" alt="Phone Finder" loading="lazy">
+          <span class="project-category">WEB</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">📱</div>
+            <h3 class="project-name">Phone Finder Hub</h3>
+          </div>
+          <p class="project-desc">Data-driven smartphone comparison platform built with Laravel. Identifies the best value-for-money devices by analyzing objective performance benchmarks.</p>
+          <div class="project-tags">
+            <span class="project-tag">Laravel</span>
+            <span class="project-tag">PHP</span>
+            <span class="project-tag">MySQL</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/phone_finder_hub" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://phone-finder-shjs.onrender.com/" target="_blank" class="project-link">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- FLUX LINUX -->
+      <div class="project-card reveal" data-cat="android tool">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/fluxlinux.gif" alt="FluxLinux" loading="lazy">
+          <span class="project-category">ANDROID · ⭐ 117+</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" alt=""></div>
+            <h3 class="project-name">FluxLinux</h3>
+          </div>
+          <p class="project-desc">Run full Linux desktop environments on Android with GPU acceleration and dev stacks. Transform your phone into a versatile Linux workstation.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Linux</span>
+            <span class="project-tag">GPU</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/fluxlinux" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://f-droid.org/packages/com.ivarna.fluxlinux" target="_blank" class="project-link">F-Droid</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- FINALBENCHMARK -->
+      <div class="project-card reveal" data-cat="android tool">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/FinalBenchmark2.gif" alt="FinalBenchmark" loading="lazy">
+          <span class="project-category">ANDROID · ⭐ 72+</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/finalbenchmark-platform/main/assets/logo_2.png" alt=""></div>
+            <h3 class="project-name">FinalBenchmark 2</h3>
+          </div>
+          <p class="project-desc">Comprehensive CPU benchmarking app with 10+ tests and thermal management. Real-time thermal monitoring prevents throttling during intensive stress tests.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Benchmark</span>
+            <span class="project-tag">Thermal</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/finalbenchmark-platform" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2" target="_blank" class="project-link">F-Droid</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- DEVICE INSIGHT -->
+      <div class="project-card reveal" data-cat="android tool">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/DeviceInsight.gif" alt="DeviceInsight" loading="lazy">
+          <span class="project-category">ANDROID</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://github.com/abhay-byte/DeviceInsight/raw/master/assets/logo.webp" alt=""></div>
+            <h3 class="project-name">DeviceInsight</h3>
+          </div>
+          <p class="project-desc">Premium system monitoring with glassmorphism UI and real-time analytics for CPU, RAM, Storage, Network, and Battery usage.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Compose</span>
+            <span class="project-tag">Monitoring</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/deviceinsight" target="_blank" class="project-link primary">GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MKM -->
+      <div class="project-card reveal" data-cat="android tool">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/MKM.gif" alt="MKM" loading="lazy">
+          <span class="project-category">ANDROID · ⭐ 56+</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://github.com/abhay-byte/mkm/raw/main/assets/logo.png" alt=""></div>
+            <h3 class="project-name">MKM</h3>
+          </div>
+          <p class="project-desc">Minimal Kernel Manager for persistent swap management with Shizuku support. CPU/GPU frequency control with real-time thermal monitoring.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Shizuku</span>
+            <span class="project-tag">Kernel</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/mkm" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm" target="_blank" class="project-link">Play Store</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- CLINICO -->
+      <div class="project-card reveal" data-cat="ai web">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/clinico.gif" alt="Clinico" loading="lazy">
+          <span class="project-category">AI / WEB</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" alt=""></div>
+            <h3 class="project-name">Clinico</h3>
+          </div>
+          <p class="project-desc">AI-powered healthcare platform with 24/7 AI companion, telehealth, and hyperlocal clinic discovery. Complete stack: React + Node.js + TensorFlow.</p>
+          <div class="project-tags">
+            <span class="project-tag">React</span>
+            <span class="project-tag">Node.js</span>
+            <span class="project-tag">TensorFlow</span>
+            <span class="project-tag">Figma</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/minor-project-gtbit" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://clinicofrontend.onrender.com/" target="_blank" class="project-link">Live</a>
+            <a href="https://www.figma.com/design/dFDrEe30gtdNb1QFVKWNv2/Clinico---UI-UX" target="_blank" class="project-link">Figma</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- MY PORTFOLIO -->
+      <div class="project-card reveal" data-cat="web">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/my-portfolio.gif" alt="Portfolio" loading="lazy">
+          <span class="project-category">WEB</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/my-portfolio/main/public/favicon.ico" alt=""></div>
+            <h3 class="project-name">My Portfolio</h3>
+          </div>
+          <p class="project-desc">Personal portfolio website showcasing projects, skills, and experience with responsive design and smooth animations.</p>
+          <div class="project-tags">
+            <span class="project-tag">React</span>
+            <span class="project-tag">Tailwind</span>
+            <span class="project-tag">GSAP</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/my-portfolio" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://abhayraj-porfolio.web.app/" target="_blank" class="project-link">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- WEBGL -->
+      <div class="project-card reveal" data-cat="web">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/webgl.gif" alt="WebGL" loading="lazy">
+          <span class="project-category">WEB / 3D</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">🌐</div>
+            <h3 class="project-name">WebGL Website</h3>
+          </div>
+          <p class="project-desc">Interactive website built with WebGL for stunning 3D graphics and animations. Pushes browser graphics to the limit.</p>
+          <div class="project-tags">
+            <span class="project-tag">WebGL</span>
+            <span class="project-tag">Three.js</span>
+            <span class="project-tag">GLSL</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/webgl-website" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://abhay-raj.web.app/" target="_blank" class="project-link">Website</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- FANTASY RACING -->
+      <div class="project-card reveal" data-cat="game">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/fantasy-racing.gif" alt="Fantasy Racing" loading="lazy">
+          <span class="project-category">GAME</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" alt=""></div>
+            <h3 class="project-name">Fantasy Racing</h3>
+          </div>
+          <p class="project-desc">High-speed futuristic anti-gravity racing game with diverse planets, strategic challenges, and immersive neon-soaked gameplay.</p>
+          <div class="project-tags">
+            <span class="project-tag">Unity</span>
+            <span class="project-tag">C#</span>
+            <span class="project-tag">3D</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/planet-racing" target="_blank" class="project-link primary">GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- XIRSIA -->
+      <div class="project-card reveal" data-cat="game">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/xirsia.gif" alt="Xirsia" loading="lazy">
+          <span class="project-category">GAME · RPG</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/xirsia-icon.png" alt=""></div>
+            <h3 class="project-name">Story of Xirsia</h3>
+          </div>
+          <p class="project-desc">2D Role Playing Game set in Medieval age with massive 25km² open world of Xirsia Isle to explore. Complete RPG with deep lore.</p>
+          <div class="project-tags">
+            <span class="project-tag">Unity</span>
+            <span class="project-tag">C#</span>
+            <span class="project-tag">RPG</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://hind-dev.web.app/#/" target="_blank" class="project-link">Play Game</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- WHISPERS -->
+      <div class="project-card reveal" data-cat="game">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/whispers.gif" alt="Whispers" loading="lazy">
+          <span class="project-category">GAME · HORROR</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">👻</div>
+            <h3 class="project-name">Whispers in the Mist</h3>
+          </div>
+          <p class="project-desc">Horror game set in St. Xavier's Boarding School in Ooty during Valentine's Day with mysterious occurrences lurking in every shadow.</p>
+          <div class="project-tags">
+            <span class="project-tag">Unity</span>
+            <span class="project-tag">C#</span>
+            <span class="project-tag">Horror</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/valentines-day-unity" target="_blank" class="project-link primary">GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- THREEJS PORTFOLIO -->
+      <div class="project-card reveal" data-cat="web">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/abhay-byte/main/assets/threejs-portfolio.gif" alt="ThreeJS Portfolio" loading="lazy">
+          <span class="project-category">WEB / 3D</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">✨</div>
+            <h3 class="project-name">ThreeJS Portfolio</h3>
+          </div>
+          <p class="project-desc">Stunning 3D portfolio with scroll-driven cinematic intro through space — custom GLSL shaders, orbital planets, and a glowing sun.</p>
+          <div class="project-tags">
+            <span class="project-tag">Three.js</span>
+            <span class="project-tag">React</span>
+            <span class="project-tag">GLSL</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/threejs_portfolio" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://abhay-byte.web.app/" target="_blank" class="project-link">Live</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- WARDEN PROTOCOL -->
+      <div class="project-card reveal" data-cat="android game">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Warden Protocol" loading="lazy">
+          <span class="project-category">ANDROID / GAME</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/assets/icon.png" alt=""></div>
+            <h3 class="project-name">Warden Protocol</h3>
+          </div>
+          <p class="project-desc">Single-player Android strategy game where you act as bunker intelligence for survivors in a post-nuclear fallout scenario.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Strategy</span>
+            <span class="project-tag">Android</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/warden-protocol" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://play.google.com/store/apps/details?id=com.ivarna.wardenprotocol" target="_blank" class="project-link">Play Store</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- TASKSTACK -->
+      <div class="project-card reveal" data-cat="android">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="TaskStack" loading="lazy">
+          <span class="project-category">ANDROID</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/assets/images/app_icon.png" alt=""></div>
+            <h3 class="project-name">TaskStack</h3>
+          </div>
+          <p class="project-desc">Next-generation daily task management app with a 24-hour visual timeline and life analytics. Built with Flutter.</p>
+          <div class="project-tags">
+            <span class="project-tag">Flutter</span>
+            <span class="project-tag">Dart</span>
+            <span class="project-tag">Analytics</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/TaskStack" target="_blank" class="project-link primary">GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- TRUVALT -->
+      <div class="project-card reveal" data-cat="android tool">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Truvalt" loading="lazy">
+          <span class="project-category">SECURITY</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon"><img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/assets/truvalt_icon.png" alt=""></div>
+            <h3 class="project-name">Truvalt</h3>
+          </div>
+          <p class="project-desc">Secure, self-hostable, zero-knowledge password manager for Android and web. True end-to-end encryption — your data never leaves your device.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Crypto</span>
+            <span class="project-tag">Self-hosted</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/truvalt" target="_blank" class="project-link primary">GitHub ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- INVESTMENT GROWTH -->
+      <div class="project-card reveal" data-cat="ai web">
+        <div class="project-media">
+          <img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" alt="Investment Growth" loading="lazy">
+          <span class="project-category">AI / FINANCE</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">📊</div>
+            <h3 class="project-name">Investment Growth</h3>
+          </div>
+          <p class="project-desc">AI-powered investment growth predictor with monthly contribution simulations, CSV reports, and graphical insights for informed financial decisions.</p>
+          <div class="project-tags">
+            <span class="project-tag">Python</span>
+            <span class="project-tag">Streamlit</span>
+            <span class="project-tag">AI</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://aiwrapper.streamlit.app" target="_blank" class="project-link">Live App</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ADIRSTAT -->
+      <div class="project-card reveal" data-cat="android tool">
+        <div class="project-media">
+          <img src="https://github.com/abhay-byte/Adirstat/raw/main/fastlane/metadata/android/en-US/images/featureGraphic.png" alt="Adirstat" loading="lazy" onerror="this.style.display='none'">
+          <span class="project-category">ANDROID</span>
+        </div>
+        <div class="project-body">
+          <div class="project-header">
+            <div class="project-icon">📊</div>
+            <h3 class="project-name">Adirstat</h3>
+          </div>
+          <p class="project-desc">Android Disk Space Analyzer — the WizTree / WinDirStat equivalent for mobile. Visualize and reclaim storage with interactive treemaps.</p>
+          <div class="project-tags">
+            <span class="project-tag">Kotlin</span>
+            <span class="project-tag">Treemap</span>
+            <span class="project-tag">Storage</span>
+          </div>
+          <div class="project-links">
+            <a href="https://github.com/abhay-byte/Adirstat" target="_blank" class="project-link primary">GitHub ↗</a>
+            <a href="https://play.google.com/store/apps/details?id=com.ivarna.adirstat" target="_blank" class="project-link">Play Store</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section id="experience" style="background: var(--bg2); border-top: var(--border); border-bottom: var(--border);">
+  <div class="container">
+    <div class="section-label">05 // EXPERIENCE</div>
+    <h2 class="section-title">Where I've Worked</h2>
+    <p class="section-subtitle">Professional experience building real products used by real people.</p>
+
+    <div class="timeline reveal">
+      <div class="timeline-item">
+        <div class="timeline-date">Jan 2026 — Jun 2026</div>
+        <div class="timeline-role">PHP Developer</div>
+        <div class="timeline-company">Avalon Information Systems · New Delhi, IN</div>
+        <ul class="timeline-desc">
+          <li>Engineered 20+ REST API endpoints across OpenEMIS Core and School modules using Laravel and CakePHP, supporting national-level student data management for a UNESCO-backed platform.</li>
+          <li>Implemented RBAC and authentication for multi-tenant security across user roles.</li>
+          <li>Built an event-driven alerts and webhooks system for real-time institutional notifications.</li>
+          <li>Resolved 4 production bugs applying the Boy Scout Rule — leaving each file cleaner than found.</li>
+          <li>Authored database migrations and query optimizations for scalable multi-country deployments.</li>
+        </ul>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-date">Jul 2023 — Sep 2023</div>
+        <div class="timeline-role">Game Developer Intern</div>
+        <div class="timeline-company">Gamified · Remote (Bengaluru)</div>
+        <ul class="timeline-desc">
+          <li>Developed user interfaces for over 10 game scenes with 100% design accuracy using C# and Unity, reducing iteration time by 25%.</li>
+          <li>Refactored core game mechanics into modular, reusable components, improving maintainability and reducing complexity by 20%.</li>
+          <li>Worked on WordSea, a Wordle-style word game, collaborating with artists and designers on asset integration.</li>
+        </ul>
+      </div>
+
+      <div class="timeline-item">
+        <div class="timeline-date">Nov 2022 — May 2026</div>
+        <div class="timeline-role">B.Tech Information Technology</div>
+        <div class="timeline-company">Guru Tegh Bahadur Institute of Technology · New Delhi</div>
+        <ul class="timeline-desc">
+          <li>CGPA: 8.6 · GTBIT ranked among India's top institutions in EWIHER 2025-26.</li>
+          <li>Member of GDSC (Google Developer Student Clubs) — Design department.</li>
+          <li>Built and published first game (Fantasy Racer) to Play Store during first year.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <div class="container">
+    <div class="section-label">06 // SKILLS</div>
+    <h2 class="section-title">Technical Arsenal</h2>
+    <p class="section-subtitle">Deep expertise across mobile, web, AI, and systems engineering.</p>
+
+    <div class="skills-grid reveal">
+      <div class="skill-category">
+        <h3>Languages</h3>
+        <div class="skill-list">
+          <span class="skill-tag">Kotlin</span>
+          <span class="skill-tag">TypeScript</span>
+          <span class="skill-tag">PHP</span>
+          <span class="skill-tag">Python</span>
+          <span class="skill-tag">Rust</span>
+          <span class="skill-tag">JavaScript</span>
+          <span class="skill-tag">C++</span>
+          <span class="skill-tag">Java</span>
+          <span class="skill-tag">Dart</span>
+          <span class="skill-tag">Shell</span>
+          <span class="skill-tag">SQL</span>
+        </div>
+      </div>
+
+      <div class="skill-category">
+        <h3>Android / Mobile</h3>
+        <div class="skill-list">
+          <span class="skill-tag">Android SDK</span>
+          <span class="skill-tag">Jetpack Compose</span>
+          <span class="skill-tag">Material Design 3</span>
+          <span class="skill-tag">MVVM</span>
+          <span class="skill-tag">Room DB</span>
+          <span class="skill-tag">Coroutines</span>
+          <span class="skill-tag">Flow</span>
+          <span class="skill-tag">Flutter</span>
+          <span class="skill-tag">Play Store</span>
+          <span class="skill-tag">F-Droid</span>
+        </div>
+      </div>
+
+      <div class="skill-category">
+        <h3>Backend</h3>
+        <div class="skill-list">
+          <span class="skill-tag">Laravel 12</span>
+          <span class="skill-tag">CakePHP 5</span>
+          <span class="skill-tag">Django</span>
+          <span class="skill-tag">Flask</span>
+          <span class="skill-tag">Node.js</span>
+          <span class="skill-tag">Express.js</span>
+          <span class="skill-tag">REST APIs</span>
+          <span class="skill-tag">MySQL</span>
+        </div>
+      </div>
+
+      <div class="skill-category">
+        <h3>Frontend</h3>
+        <div class="skill-list">
+          <span class="skill-tag">React</span>
+          <span class="skill-tag">Tauri v2</span>
+          <span class="skill-tag">Next.js</span>
+          <span class="skill-tag">TailwindCSS</span>
+          <span class="skill-tag">Three.js</span>
+          <span class="skill-tag">WebGL</span>
+          <span class="skill-tag">GSAP</span>
+          <span class="skill-tag">HTML/CSS</span>
+        </div>
+      </div>
+
+      <div class="skill-category">
+        <h3>AI & Agentic</h3>
+        <div class="skill-list">
+          <span class="skill-tag">LLM Orchestration</span>
+          <span class="skill-tag">Multi-Agent Systems</span>
+          <span class="skill-tag">MCP Protocol</span>
+          <span class="skill-tag">Claude Code</span>
+          <span class="skill-tag">Codex CLI</span>
+          <span class="skill-tag">Gemini CLI</span>
+          <span class="skill-tag">Qwen</span>
+          <span class="skill-tag">Aider</span>
+          <span class="skill-tag">Cursor</span>
+          <span class="skill-tag">Windsurf</span>
+        </div>
+      </div>
+
+      <div class="skill-category">
+        <h3>DevOps & Tools</h3>
+        <div class="skill-list">
+          <span class="skill-tag">Git / GitHub</span>
+          <span class="skill-tag">Linux Admin</span>
+          <span class="skill-tag">Docker</span>
+          <span class="skill-tag">GitHub Actions</span>
+          <span class="skill-tag">AWS</span>
+          <span class="skill-tag">GCP</span>
+          <span class="skill-tag">Vercel</span>
+          <span class="skill-tag">Cron Jobs</span>
+        </div>
+      </div>
+
+      <div class="skill-category">
+        <h3>Engineering Practices</h3>
+        <div class="skill-list">
+          <span class="skill-tag">SDLC</span>
+          <span class="skill-tag">Agile / Scrum</span>
+          <span class="skill-tag">System Design</span>
+          <span class="skill-tag">SOLID</span>
+          <span class="skill-tag">DRY / KISS</span>
+          <span class="skill-tag">Testing</span>
+          <span class="skill-tag">CI/CD</span>
+          <span class="skill-tag">Design Patterns</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GITHUB STATS -->
+<section id="stats" class="stats-section">
+  <div class="container">
+    <div class="section-label">07 // STATS</div>
+    <h2 class="section-title">GitHub Stats</h2>
+    <p class="section-subtitle">2.6K+ commits · 324 stars · 85 public repos · 94 followers</p>
+
+    <div class="github-stats-grid reveal">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/abhay-byte?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false&borderRadius=4" alt="GitHub Stats">
+      <img src="https://hacked-github-stat-trophies.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies">
+    </div>
+
+    <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:32px; justify-content:center;" class="reveal">
+      <img src="https://komarev.com/ghpvc/?username=abhay-byte&color=282828&labelColor=282828&style=for-the-badge" alt="Profile Views">
+      <img src="https://img.shields.io/github/followers/abhay-byte?label=Followers&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="Followers">
+      <img src="https://img.shields.io/github/stars/abhay-byte?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github&color=fabd2f&labelColor=282828" alt="Stars">
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="contact">
+  <div class="contact-box reveal">
+    <div class="section-label" style="justify-content:center;">08 // CONTACT</div>
+    <h2>Let's <span style="color:var(--accent)">Connect</span></h2>
+    <p>I'm always open to discussing open source projects, creative ideas, or opportunities to contribute to something meaningful. Let's build something great together.</p>
+    <div class="contact-links">
+      <a href="mailto:abhay.byte02@gmail.com" class="btn btn-primary">📬 Email Me</a>
+      <a href="https://www.linkedin.com/in/abhay-byte/" target="_blank" class="btn btn-secondary">💼 LinkedIn</a>
+      <a href="https://github.com/abhay-byte" target="_blank" class="btn btn-secondary">GitHub</a>
+      <a href="https://abhay-byte.web.app" target="_blank" class="btn btn-secondary">Portfolio</a>
+      <a href="https://instagram.com/abhayrajx" target="_blank" class="btn btn-secondary">Instagram</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>Designed & Built by <a href="https://github.com/abhay-byte">Abhay Raj</a> · 2026</p>
+  <p style="margin-top:8px; opacity:0.6;">Last updated: 2026-06-18 · Built with FOSS · No tracking, no nonsense</p>
+</footer>
+
+<script>
+// Scroll Reveal
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+// Project Filter
+const filterBtns = document.querySelectorAll('.filter-btn');
+const projectCards = document.querySelectorAll('#projectsGrid .project-card');
+
+filterBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    filterBtns.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const filter = btn.dataset.filter;
+    projectCards.forEach(card => {
+      const cat = card.dataset.cat || '';
+      if (filter === 'all' || cat.includes(filter)) {
+        card.style.display = 'flex';
+        card.style.animation = 'fadeInUp 0.4s ease both';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  });
+});
+
+// Mobile nav close on link click
+document.querySelectorAll('.nav-links a').forEach(a => {
+  a.addEventListener('click', () => {
+    document.querySelector('.nav-links').classList.remove('open');
+  });
+});
+
+// Smooth scroll for anchor links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function(e) {
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      e.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+});
+
+// Console easter egg
+console.log('%c@abhay-byte', 'color: #fabd2f; font-size: 24px; font-weight: bold; font-family: monospace;');
+console.log('%cAgentic Software Engineer · FOSS Developer', 'color: #ebdbb2; font-size: 12px; font-family: monospace;');
+console.log('%cAll projects are open source. Fork, use, build.', 'color: #a89984; font-size: 11px;');
+</script>
 
 </body>
 </html>
