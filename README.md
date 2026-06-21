@@ -144,6 +144,16 @@ Personal portfolio website showcasing projects, skills, and experience with resp
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/my-portfolio/main/public/favicon.ico" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/webgl-website"><b>WebGL Website</b></a></h3>
+Interactive website built with WebGL for stunning 3D graphics and animations.<br><br>
+<a href="https://github.com/abhay-byte/webgl-website"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://abhay-raj.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> <a href="https://github.com/abhay-byte/webgl-website/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/webgl-website?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/webgl-website"><img src="assets/webgl.gif" width="100%" alt="WebGL Website"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nativecode"><b>NativeCode</b></a></h3>
 Local AI development environment on Android — run LLMs, code editors, and dev tools on-device.<br><br>
 <a href="https://github.com/abhay-byte/nativecode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nativecode/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nativecode?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
@@ -220,16 +230,6 @@ Android Disk Space Analyzer (WizTree/WinDirStat equivalent).<br><br>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/Adirstat"><img src="assets/adirstat-feature.png" width="100%" alt="Adirstat"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nativecode"><b>NativeCode</b></a></h3>
-Local AI development environment on Android — run LLMs, code editors, and dev tools on-device.<br><br>
-<a href="https://github.com/abhay-byte/nativecode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nativecode/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nativecode?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/nativecode"><img src="assets/NativeCode.png" width="100%" alt="NativeCode"/></a>
 </td>
 </tr>
 <tr>
