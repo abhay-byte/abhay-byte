@@ -44,12 +44,12 @@ Run full Linux desktop environments on Android with GPU acceleration and dev sta
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/planet-racing"><b>Fantasy Racing</b></a></h3>
-High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay.<br><br>
-<a href="https://github.com/abhay-byte/planet-racing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/planet-racing/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+<h3><img src="assets/nexus-logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nexus"><b>Nexus Terminal</b></a></h3>
+Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app.<br><br>
+<a href="https://github.com/abhay-byte/nexus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nexus/releases"><img src="https://img.shields.io/badge/Download-fabd2f?style=for-the-badge&logo=github&logoColor=282828&labelColor=282828" alt="Download"/></a> <a href="https://github.com/abhay-byte/nexus/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nexus?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/planet-racing"><img src="assets/fantasy-racing.gif" width="100%" alt="Fantasy Racing"/></a>
+<a href="https://github.com/abhay-byte/nexus"><img src="assets/nexus.gif" width="100%" alt="Nexus Terminal"/></a>
 </td>
 </tr>
 <tr>
@@ -64,12 +64,12 @@ Comprehensive CPU benchmarking app with 10+ tests and thermal management.<br><br
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="assets/nexus-logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nexus"><b>Nexus Terminal</b></a></h3>
-Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app.<br><br>
-<a href="https://github.com/abhay-byte/nexus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nexus/releases"><img src="https://img.shields.io/badge/Download-fabd2f?style=for-the-badge&logo=github&logoColor=282828&labelColor=282828" alt="Download"/></a> <a href="https://github.com/abhay-byte/nexus/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nexus?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+<h3><img src="https://github.com/abhay-byte/mkm/raw/main/assets/logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/mkm"><b>MKM</b></a></h3>
+Minimal Kernel Manager for persistent swap management with Shizuku support.<br><br>
+<a href="https://github.com/abhay-byte/mkm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/mkm/releases"><img src="https://img.shields.io/badge/Download-fabd2f?style=for-the-badge&logo=github&logoColor=282828&labelColor=282828" alt="Download"/></a> <a href="https://github.com/abhay-byte/mkm/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/mkm?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/nexus"><img src="assets/nexus.gif" width="100%" alt="Nexus Terminal"/></a>
+<a href="https://github.com/abhay-byte/mkm"><img src="assets/MKM.gif" width="100%" alt="MKM"/></a>
 </td>
 </tr>
 <tr>
@@ -84,12 +84,12 @@ Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen,
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://github.com/abhay-byte/mkm/raw/main/assets/logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/mkm"><b>MKM</b></a></h3>
-Minimal Kernel Manager for persistent swap management with Shizuku support.<br><br>
-<a href="https://github.com/abhay-byte/mkm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/mkm/releases"><img src="https://img.shields.io/badge/Download-fabd2f?style=for-the-badge&logo=github&logoColor=282828&labelColor=282828" alt="Download"/></a> <a href="https://github.com/abhay-byte/mkm/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/mkm?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/planet-racing"><b>Fantasy Racing</b></a></h3>
+High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay.<br><br>
+<a href="https://github.com/abhay-byte/planet-racing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/planet-racing/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/mkm"><img src="assets/MKM.gif" width="100%" alt="MKM"/></a>
+<a href="https://github.com/abhay-byte/planet-racing"><img src="assets/fantasy-racing.gif" width="100%" alt="Fantasy Racing"/></a>
 </td>
 </tr>
 <tr>
