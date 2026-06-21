@@ -34,22 +34,12 @@ Agentic software engineer. I build with **Claude Code, Codex CLI, Gemini CLI, Qw
 <tbody>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="assets/nexus-logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nexus"><b>Nexus Terminal</b></a></h3>
-Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app.<br><br>
-<a href="https://github.com/abhay-byte/nexus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nexus/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nexus?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/fluxlinux"><b>FluxLinux</b></a></h3>
+Run full Linux desktop environments on Android with GPU acceleration and dev stacks.<br><br>
+<a href="https://github.com/abhay-byte/fluxlinux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.fluxlinux"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/fluxlinux/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/fluxlinux?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/nexus"><img src="assets/nexus.gif" width="100%" alt="Nexus Terminal"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="assets/phonefinder-logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/phone_finder_hub"><b>Phone Finder Hub</b></a></h3>
-Data-driven smartphone comparison platform built with Laravel. Identify best value-for-money devices via objective performance benchmarks vs current market prices.<br><br>
-<a href="https://github.com/abhay-byte/phone_finder_hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://phone-finder-shjs.onrender.com/"><img src="https://img.shields.io/badge/Website-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Website"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/phone_finder_hub"><img src="assets/phonefinder-demo.gif" width="100%" alt="Phone Finder Hub"/></a>
+<a href="https://github.com/abhay-byte/fluxlinux"><img src="assets/fluxlinux.gif" width="100%" alt="FluxLinux"/></a>
 </td>
 </tr>
 <tr>
@@ -64,26 +54,6 @@ High-speed futuristic racing game with diverse planets, strategic challenges, an
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/xirsia-icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><b>Story of Xirsia</b></a></h3>
-2D Role Playing Game set in Medieval age with a massive 25km² open world of Xirsia Isle to explore.<br><br>
-<a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://hind-dev.web.app/#/"><img src="https://img.shields.io/badge/Play_Game-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="Play Game"/></a> <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Saiko-no-senshi-0.1v?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="assets/xirsia.gif" width="100%" alt="Story of Xirsia"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/fluxlinux"><b>FluxLinux</b></a></h3>
-Run full Linux desktop environments on Android with GPU acceleration and dev stacks.<br><br>
-<a href="https://github.com/abhay-byte/fluxlinux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.fluxlinux"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/fluxlinux/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/fluxlinux?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/fluxlinux"><img src="assets/fluxlinux.gif" width="100%" alt="FluxLinux"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://raw.githubusercontent.com/abhay-byte/finalbenchmark-platform/main/assets/logo_2.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/finalbenchmark-platform"><b>FinalBenchmark 2</b></a></h3>
 Comprehensive CPU benchmarking app with 10+ tests and thermal management.<br><br>
 <a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/finalbenchmark-platform/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/finalbenchmark-platform?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
@@ -94,12 +64,22 @@ Comprehensive CPU benchmarking app with 10+ tests and thermal management.<br><br
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://github.com/abhay-byte/DeviceInsight/raw/master/assets/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/deviceinsight"><b>DeviceInsight</b></a></h3>
-Premium system monitoring with glassmorphism UI and real-time analytics.<br><br>
-<a href="https://github.com/abhay-byte/deviceinsight"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/deviceinsight/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/deviceinsight?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+<h3><img src="assets/nexus-logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nexus"><b>Nexus Terminal</b></a></h3>
+Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, and more — side-by-side in a brutalist desktop app.<br><br>
+<a href="https://github.com/abhay-byte/nexus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nexus/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nexus?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/deviceinsight"><img src="assets/DeviceInsight.gif" width="100%" alt="DeviceInsight"/></a>
+<a href="https://github.com/abhay-byte/nexus"><img src="assets/nexus.gif" width="100%" alt="Nexus Terminal"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/xirsia-icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><b>Story of Xirsia</b></a></h3>
+2D Role Playing Game set in Medieval age with a massive 25km² open world of Xirsia Isle to explore.<br><br>
+<a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://hind-dev.web.app/#/"><img src="https://img.shields.io/badge/Play_Game-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="Play Game"/></a> <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Saiko-no-senshi-0.1v?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="assets/xirsia.gif" width="100%" alt="Story of Xirsia"/></a>
 </td>
 </tr>
 <tr>
@@ -110,6 +90,26 @@ Minimal Kernel Manager for persistent swap management with Shizuku support.<br><
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/mkm"><img src="assets/MKM.gif" width="100%" alt="MKM"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="assets/phonefinder-logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/phone_finder_hub"><b>Phone Finder Hub</b></a></h3>
+Data-driven smartphone comparison platform built with Laravel. Identify best value-for-money devices via objective performance benchmarks vs current market prices.<br><br>
+<a href="https://github.com/abhay-byte/phone_finder_hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://phone-finder-shjs.onrender.com/"><img src="https://img.shields.io/badge/Website-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Website"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/phone_finder_hub"><img src="assets/phonefinder-demo.gif" width="100%" alt="Phone Finder Hub"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="https://github.com/abhay-byte/DeviceInsight/raw/master/assets/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/deviceinsight"><b>DeviceInsight</b></a></h3>
+Premium system monitoring with glassmorphism UI and real-time analytics.<br><br>
+<a href="https://github.com/abhay-byte/deviceinsight"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/deviceinsight/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/deviceinsight?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/deviceinsight"><img src="assets/DeviceInsight.gif" width="100%" alt="DeviceInsight"/></a>
 </td>
 </tr>
 <tr>
