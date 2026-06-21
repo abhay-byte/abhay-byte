@@ -16,20 +16,9 @@
 
 ## 🚀 About Me
 
-I build software with AI agents — not just code, but the systems that run them. My daily workflow uses **Claude Code, Codex CLI, Gemini CLI, Qwen, Aider**, and other AI tools, all managed through my own **[Nexus Terminal](https://github.com/abhay-byte/nexus)** — a multi-agent terminal workspace I built for this exact purpose. I also work with MCP servers and AI IDEs (Cursor, Windsurf) to extend what agents can do.
+Agentic software engineer. I build with **Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, MCP servers** — orchestrated through my own [Nexus Terminal](https://github.com/abhay-byte/nexus). Every project here is **FOSS**: code, assets, zero paywalls.
 
-**Every project here is open source.** All code, all assets, no paywalls — just FOSS.
-
-Reach me through - 
-
-- 📬 **Email:** [`abhay.byte02@gmail.com`](mailto:abhay.byte02@gmail.com) — best way to reach me!!!
-- 💼 **LinkedIn:** [Abhay Raj](https://www.linkedin.com/in/abhay-byte/) — let's network!!!
-
-## 📄 Resume
-
-[![Download Resume](https://img.shields.io/badge/Download_Resume-fabd2f?style=for-the-badge&logo=adobeacrobatreader&logoColor=282828&labelColor=282828)](https://github.com/abhay-byte/my-resume/releases/latest)
-
-Check out my latest resume with all my experience, skills, and achievements!
+📬 [Email](mailto:abhay.byte02@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abhay-byte/) · 📄 [Resume](https://github.com/abhay-byte/my-resume/releases/latest)
 
 
 
