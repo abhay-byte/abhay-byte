@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Agentic software engineer. I build with **opencode and codex** — orchestrated through my own [Nexus Terminal](https://github.com/abhay-byte/nexus). Every project here is **FOSS**: code, assets, zero paywalls.
+Agentic software engineer. I build with **opencode and codex**, orchestrated through [Nexus Terminal](https://github.com/abhay-byte/nexus) — my AI harness. Every project here is **FOSS**: code, assets, zero paywalls.
 
 <a href="mailto:abhay.byte02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/abhay-byte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/abhay-byte/my-resume/releases/latest"><img src="https://img.shields.io/badge/Resume-fabd2f?style=for-the-badge&logo=adobeacrobatreader&logoColor=282828&labelColor=282828" alt="Resume"/></a>
 
