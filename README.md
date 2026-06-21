@@ -106,7 +106,7 @@ Data-driven smartphone comparison platform built with Laravel. Identify best val
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://github.com/abhay-byte/DeviceInsight/raw/master/assets/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/deviceinsight"><b>DeviceInsight</b></a></h3>
 Premium system monitoring with glassmorphism UI and real-time analytics.<br><br>
-<a href="https://github.com/abhay-byte/deviceinsight"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/deviceinsight/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/deviceinsight?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+<a href="https://github.com/abhay-byte/deviceinsight"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/deviceinsight/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/deviceinsight/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=success" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/deviceinsight/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/deviceinsight?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/deviceinsight"><img src="assets/DeviceInsight.gif" width="100%" alt="DeviceInsight"/></a>
