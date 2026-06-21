@@ -37,6 +37,16 @@ Structured notes on software engineering, system design, AI tooling, and persona
 <tbody>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/planet-racing"><b>Fantasy Racing</b></a></h3>
+High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay.<br><br>
+<a href="https://github.com/abhay-byte/planet-racing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/planet-racing/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/planet-racing"><img src="assets/fantasy-racing.gif" width="100%" alt="Fantasy Racing"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://raw.githubusercontent.com/abhay-byte/fluxlinux/main/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/fluxlinux"><b>FluxLinux</b></a></h3>
 Run full Linux desktop environments on Android with GPU acceleration and dev stacks.<br><br>
 <a href="https://github.com/abhay-byte/fluxlinux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.zenithblue.fluxlinux"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://f-droid.org/packages/com.ivarna.fluxlinux"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/fluxlinux/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/fluxlinux/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2e7d32" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/fluxlinux/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/fluxlinux?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
@@ -83,16 +93,6 @@ Minimal Kernel Manager for persistent swap management with Shizuku support.<br><
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="assets/xirsia.gif" width="100%" alt="Story of Xirsia"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/fantasy-racing-icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/planet-racing"><b>Fantasy Racing</b></a></h3>
-High-speed futuristic racing game with diverse planets, strategic challenges, and immersive gameplay.<br><br>
-<a href="https://github.com/abhay-byte/planet-racing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/planet-racing/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/planet-racing"><img src="assets/fantasy-racing.gif" width="100%" alt="Fantasy Racing"/></a>
 </td>
 </tr>
 <tr>
