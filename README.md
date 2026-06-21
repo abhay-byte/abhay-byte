@@ -16,17 +16,13 @@
 
 ## 🚀 About Me
 Agentic software engineer. I build with **opencode and codex**, orchestrated through [Nexus Terminal](https://github.com/abhay-byte/nexus) — my AI harness. Every project here is **FOSS**: code, assets, zero paywalls.
-
 <br>
-
 <a href="mailto:abhay.byte02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/abhay-byte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/abhay-byte/my-resume/releases/latest"><img src="https://img.shields.io/badge/Resume-fabd2f?style=for-the-badge&logo=adobeacrobatreader&logoColor=282828&labelColor=282828" alt="Resume"/></a>
 
 ## 📚 My Knowledge Base
 
 Structured notes on software engineering, system design, AI tooling, and personal projects — designed to be useful for both humans and AI agents.
-
 <br>
-
 <a href="https://abhay-byte.github.io/"><img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile"/></a> <a href="https://abhay-byte.github.io/abhay-kb/"><img src="https://img.shields.io/badge/Knowledge_Base-2e7d32?style=for-the-badge&logo=gitbook&logoColor=white" alt="Knowledge Base"/></a>
 
 ## My Projects
