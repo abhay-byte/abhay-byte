@@ -114,6 +114,16 @@ Premium system monitoring with glassmorphism UI and real-time analytics.<br><br>
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3>👻 <a href="https://github.com/abhay-byte/valentines-day-unity"><b>Whispers in the Mist</b></a></h3>
+Horror game set in St. Xavier's Boarding School in Ooty during Valentine's Day with mysterious occurrences.<br><br>
+<a href="https://github.com/abhay-byte/valentines-day-unity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/valentines-day-unity/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/valentines-day-unity?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/valentines-day-unity"><img src="assets/whispers.gif" width="100%" alt="Whispers in the Mist"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/minor-project-gtbit"><b>Clinico</b></a></h3>
 AI-powered healthcare platform with 24/7 AI companion, telehealth, and hyperlocal clinic discovery.<br><br>
 <a href="https://github.com/abhay-byte/minor-project-gtbit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://clinicofrontend.onrender.com/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Website"/></a> <a href="https://minor-project-gtbit.onrender.com/"><img src="https://img.shields.io/badge/Backend-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"/></a> <a href="https://clinico-ai-service.onrender.com/"><img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI"/></a> <a href="https://www.figma.com/design/dFDrEe30gtdNb1QFVKWNv2/Clinico---UI-UX"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a> <a href="https://github.com/abhay-byte/minor-project-gtbit/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/minor-project-gtbit?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
@@ -150,16 +160,6 @@ AI-powered investment growth predictor with monthly contribution simulations, CS
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS"><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" width="100%" alt="Investment Growth Prediction"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3>👻 <a href="https://github.com/abhay-byte/valentines-day-unity"><b>Whispers in the Mist</b></a></h3>
-Horror game set in St. Xavier's Boarding School in Ooty during Valentine's Day with mysterious occurrences.<br><br>
-<a href="https://github.com/abhay-byte/valentines-day-unity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/valentines-day-unity/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/valentines-day-unity?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/valentines-day-unity"><img src="assets/whispers.gif" width="100%" alt="Whispers in the Mist"/></a>
 </td>
 </tr>
 <tr>
