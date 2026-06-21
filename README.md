@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Agentic software engineer. I build with **Claude Code, Codex CLI, Gemini CLI, Qwen, Aider, MCP servers** — orchestrated through my own [Nexus Terminal](https://github.com/abhay-byte/nexus). Every project here is **FOSS**: code, assets, zero paywalls.
+Agentic software engineer. I build with **opencode and codex** — orchestrated through my own [Nexus Terminal](https://github.com/abhay-byte/nexus). Every project here is **FOSS**: code, assets, zero paywalls.
 
 <a href="mailto:abhay.byte02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/abhay-byte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/abhay-byte/my-resume/releases/latest"><img src="https://img.shields.io/badge/Resume-fabd2f?style=for-the-badge&logo=adobeacrobatreader&logoColor=282828&labelColor=282828" alt="Resume"/></a>
 
@@ -239,7 +239,7 @@ Local AI development environment on Android — run LLMs, code editors, and dev 
 <a href="https://github.com/abhay-byte/nativecode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nativecode/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nativecode?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/nativecode"><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/screenshots/home.png" width="100%" alt="NativeCode"/></a>
+<a href="https://github.com/abhay-byte/nativecode"><img src="assets/NativeCode.png" width="100%" alt="NativeCode"/></a>
 </td>
 </tr>
 <tr>
