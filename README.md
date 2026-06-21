@@ -174,16 +174,6 @@ Interactive 3D portfolio website built with Three.js.<br><br>
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://github.com/abhay-byte/minor-project-gtbit/raw/main/assets/logo/Clinico%20Logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/Clinicofrontend"><b>Clinico Frontend</b></a></h3>
-Professional & admin portal with doctor dashboard, patient management, and NGO partner interface.<br><br>
-<a href="https://github.com/abhay-byte/Clinicofrontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://clinicofrontend.onrender.com/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Website"/></a> <a href="https://github.com/abhay-byte/Clinicofrontend/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Clinicofrontend?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Clinicofrontend"><img src="assets/clinico.gif" width="100%" alt="Clinico Frontend"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/assets/truvalt_icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/truvalt"><b>Truvalt</b></a></h3>
 Secure, self-hostable, zero-knowledge password manager for Android and web.<br><br>
 <a href="https://github.com/abhay-byte/truvalt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/truvalt/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/truvalt?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
