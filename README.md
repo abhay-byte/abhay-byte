@@ -39,7 +39,7 @@ Multi-agent AI terminal workspace. Run Claude Code, Codex CLI, Gemini CLI, Qwen,
 <a href="https://github.com/abhay-byte/nexus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nexus/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nexus?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/nexus"><img src="assets/nexus.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Nexus Terminal"/></a>
+<a href="https://github.com/abhay-byte/nexus"><img src="assets/nexus.gif" width="100%" alt="Nexus Terminal"/></a>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ Data-driven smartphone comparison platform built with Laravel. Identify best val
 <a href="https://github.com/abhay-byte/phone_finder_hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://phone-finder-shjs.onrender.com/"><img src="https://img.shields.io/badge/Website-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Website"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/phone_finder_hub"><img src="assets/phonefinder-demo.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Phone Finder Hub"/></a>
+<a href="https://github.com/abhay-byte/phone_finder_hub"><img src="assets/phonefinder-demo.gif" width="100%" alt="Phone Finder Hub"/></a>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ High-speed futuristic racing game with diverse planets, strategic challenges, an
 <a href="https://github.com/abhay-byte/planet-racing"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/planet-racing/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/planet-racing?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/planet-racing"><img src="assets/fantasy-racing.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Fantasy Racing"/></a>
+<a href="https://github.com/abhay-byte/planet-racing"><img src="assets/fantasy-racing.gif" width="100%" alt="Fantasy Racing"/></a>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ High-speed futuristic racing game with diverse planets, strategic challenges, an
 <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://hind-dev.web.app/#/"><img src="https://img.shields.io/badge/Play_Game-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="Play Game"/></a> <a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Saiko-no-senshi-0.1v?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="assets/xirsia.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Story of Xirsia"/></a>
+<a href="https://github.com/abhay-byte/Saiko-no-senshi-0.1v"><img src="assets/xirsia.gif" width="100%" alt="Story of Xirsia"/></a>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ Run full Linux desktop environments on Android with GPU acceleration and dev sta
 <a href="https://github.com/abhay-byte/fluxlinux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.fluxlinux"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/fluxlinux/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/fluxlinux?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/fluxlinux"><img src="assets/fluxlinux.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="FluxLinux"/></a>
+<a href="https://github.com/abhay-byte/fluxlinux"><img src="assets/fluxlinux.gif" width="100%" alt="FluxLinux"/></a>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ Comprehensive CPU benchmarking app with 10+ tests and thermal management.<br><br
 <a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/finalbenchmark-platform/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/finalbenchmark-platform?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="assets/FinalBenchmark2.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="FinalBenchmark 2"/></a>
+<a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="assets/FinalBenchmark2.gif" width="100%" alt="FinalBenchmark 2"/></a>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ Premium system monitoring with glassmorphism UI and real-time analytics.<br><br>
 <a href="https://github.com/abhay-byte/deviceinsight"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/deviceinsight/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/deviceinsight?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/deviceinsight"><img src="assets/DeviceInsight.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="DeviceInsight"/></a>
+<a href="https://github.com/abhay-byte/deviceinsight"><img src="assets/DeviceInsight.gif" width="100%" alt="DeviceInsight"/></a>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Minimal Kernel Manager for persistent swap management with Shizuku support.<br><
 <a href="https://github.com/abhay-byte/mkm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/mkm/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/mkm?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/mkm"><img src="assets/MKM.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="MKM"/></a>
+<a href="https://github.com/abhay-byte/mkm"><img src="assets/MKM.gif" width="100%" alt="MKM"/></a>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ AI-powered healthcare platform with 24/7 AI companion, telehealth, and hyperloca
 <a href="https://github.com/abhay-byte/minor-project-gtbit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://clinicofrontend.onrender.com/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Website"/></a> <a href="https://minor-project-gtbit.onrender.com/"><img src="https://img.shields.io/badge/Backend-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend"/></a> <a href="https://clinico-ai-service.onrender.com/"><img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI"/></a> <a href="https://www.figma.com/design/dFDrEe30gtdNb1QFVKWNv2/Clinico---UI-UX"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a> <a href="https://github.com/abhay-byte/minor-project-gtbit/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/minor-project-gtbit?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/minor-project-gtbit"><img src="assets/clinico.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Clinico"/></a>
+<a href="https://github.com/abhay-byte/minor-project-gtbit"><img src="assets/clinico.gif" width="100%" alt="Clinico"/></a>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ Personal portfolio website showcasing projects, skills, and experience with resp
 <a href="https://github.com/abhay-byte/my-portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://abhayraj-porfolio.web.app/"><img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a> <a href="https://github.com/abhay-byte/my-portfolio/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/my-portfolio?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/my-portfolio"><img src="assets/my-portfolio.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="My Portfolio"/></a>
+<a href="https://github.com/abhay-byte/my-portfolio"><img src="assets/my-portfolio.gif" width="100%" alt="My Portfolio"/></a>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Interactive website built with WebGL for stunning 3D graphics and animations.<br
 <a href="https://github.com/abhay-byte/webgl-website"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://abhay-raj.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> <a href="https://github.com/abhay-byte/webgl-website/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/webgl-website?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/webgl-website"><img src="assets/webgl.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="WebGL Website"/></a>
+<a href="https://github.com/abhay-byte/webgl-website"><img src="assets/webgl.gif" width="100%" alt="WebGL Website"/></a>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ AI-powered investment growth predictor with monthly contribution simulations, CS
 <a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://aiwrapper.streamlit.app"><img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App"/></a> <a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/AI_WRAPPER_PROJECTS?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS"><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Investment Growth Prediction"/></a>
+<a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS"><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" width="100%" alt="Investment Growth Prediction"/></a>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ Horror game set in St. Xavier's Boarding School in Ooty during Valentine's Day w
 <a href="https://github.com/abhay-byte/valentines-day-unity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/valentines-day-unity/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/valentines-day-unity?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/valentines-day-unity"><img src="assets/whispers.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Whispers in the Mist"/></a>
+<a href="https://github.com/abhay-byte/valentines-day-unity"><img src="assets/whispers.gif" width="100%" alt="Whispers in the Mist"/></a>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ Interactive 3D portfolio website built with Three.js.<br><br>
 <a href="https://github.com/abhay-byte/threejs_portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://abhay-byte.web.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Website"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/threejs_portfolio"><img src="assets/threejs-portfolio.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="ThreeJS Portfolio"/></a>
+<a href="https://github.com/abhay-byte/threejs_portfolio"><img src="assets/threejs-portfolio.gif" width="100%" alt="ThreeJS Portfolio"/></a>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ Professional & admin portal with doctor dashboard, patient management, and NGO p
 <a href="https://github.com/abhay-byte/Clinicofrontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://clinicofrontend.onrender.com/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Website"/></a> <a href="https://github.com/abhay-byte/Clinicofrontend/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Clinicofrontend?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Clinicofrontend"><img src="assets/clinico.gif" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Clinico Frontend"/></a>
+<a href="https://github.com/abhay-byte/Clinicofrontend"><img src="assets/clinico.gif" width="100%" alt="Clinico Frontend"/></a>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ Secure, self-hostable, zero-knowledge password manager for Android and web.<br><
 <a href="https://github.com/abhay-byte/truvalt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/truvalt/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/truvalt?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/truvalt"><img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Truvalt"/></a>
+<a href="https://github.com/abhay-byte/truvalt"><img src="https://raw.githubusercontent.com/abhay-byte/truvalt/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="Truvalt"/></a>
 </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ Widget suite with polished home-screen experiences for multiple device skins.<br
 <a href="https://github.com/abhay-byte/allwidgets"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/allwidgets/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/allwidgets?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/allwidgets"><img src="assets/allwidgets-feature.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="AllWidgets"/></a>
+<a href="https://github.com/abhay-byte/allwidgets"><img src="assets/allwidgets-feature.png" width="100%" alt="AllWidgets"/></a>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ Next-generation daily task management app with a 24-hour visual timeline and lif
 <a href="https://github.com/abhay-byte/TaskStack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/TaskStack/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/TaskStack?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/TaskStack"><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="TaskStack"/></a>
+<a href="https://github.com/abhay-byte/TaskStack"><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="TaskStack"/></a>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ Single-player Android strategy game where you act as bunker intelligence for sur
 <a href="https://github.com/abhay-byte/warden-protocol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.wardenprotocol"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/warden-protocol/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/warden-protocol?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/warden-protocol"><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Warden Protocol"/></a>
+<a href="https://github.com/abhay-byte/warden-protocol"><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="Warden Protocol"/></a>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ Android Disk Space Analyzer (WizTree/WinDirStat equivalent).<br><br>
 <a href="https://github.com/abhay-byte/Adirstat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.adirstat"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/Adirstat/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Adirstat?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Adirstat"><img src="assets/adirstat-feature.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Adirstat"/></a>
+<a href="https://github.com/abhay-byte/Adirstat"><img src="assets/adirstat-feature.png" width="100%" alt="Adirstat"/></a>
 </td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@ Local AI development environment on Android — run LLMs, code editors, and dev 
 <a href="https://github.com/abhay-byte/nativecode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nativecode/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nativecode?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/nativecode"><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/screenshots/home.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="NativeCode"/></a>
+<a href="https://github.com/abhay-byte/nativecode"><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/screenshots/home.png" width="100%" alt="NativeCode"/></a>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ Android package manager — install, batch-install, and manage APKs on Android d
 <a href="https://github.com/abhay-byte/apm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/apm/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/apm?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/apm"><img src="assets/apm.jpg" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="APM"/></a>
+<a href="https://github.com/abhay-byte/apm"><img src="assets/apm.jpg" width="100%" alt="APM"/></a>
 </td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ Automated Arch Linux/Hyprland/XFCE setup scripts for Termux proot-distro on Andr
 <a href="https://github.com/abhay-byte/Linux_Setup"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/Linux_Setup/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Linux_Setup?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Linux_Setup"><img src="assets/linux_setup.jpg" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Linux_Setup"/></a>
+<a href="https://github.com/abhay-byte/Linux_Setup"><img src="assets/linux_setup.jpg" width="100%" alt="Linux_Setup"/></a>
 </td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ Community-driven compatibility list for running Windows games on Android via Mal
 <a href="https://github.com/abhay-byte/mali-win-emu-list"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://www.youtube.com/watch?v=ObSgXBA5MCg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://github.com/abhay-byte/mali-win-emu-list/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/mali-win-emu-list?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://www.youtube.com/watch?v=ObSgXBA5MCg"><img src="https://i.ytimg.com/vi/ObSgXBA5MCg/maxresdefault.jpg" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Mali Win Emu List"/></a>
+<a href="https://www.youtube.com/watch?v=ObSgXBA5MCg"><img src="https://i.ytimg.com/vi/ObSgXBA5MCg/maxresdefault.jpg" width="100%" alt="Mali Win Emu List"/></a>
 </td>
 </tr>
 <tr>
@@ -279,7 +279,7 @@ AI-driven text-based survival game — a Seedship-inspired remake with randomize
 <a href="https://github.com/abhay-byte/AI_Survival_Quest-V1.0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/AI_Survival_Quest-V1.0/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/AI_Survival_Quest-V1.0?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/AI_Survival_Quest-V1.0"><img src="assets/ai_survival_quest.png" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="AI Survival Quest"/></a>
+<a href="https://github.com/abhay-byte/AI_Survival_Quest-V1.0"><img src="assets/ai_survival_quest.png" width="100%" alt="AI Survival Quest"/></a>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ Retail platform combining e-commerce marketplace, sustainability tracking, and o
 <a href="https://github.com/abhay-byte/project-evergreen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/project-evergreen/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/project-evergreen?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/project-evergreen"><img src="assets/project_evergreen.jpg" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="Project Evergreen"/></a>
+<a href="https://github.com/abhay-byte/project-evergreen"><img src="assets/project_evergreen.jpg" width="100%" alt="Project Evergreen"/></a>
 </td>
 </tr>
 <tr>
@@ -299,7 +299,7 @@ Disease prediction app using symptom analysis with a built-in medical knowledge 
 <a href="https://github.com/abhay-byte/MedApp-V2.1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/MedApp-V2.1/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/MedApp-V2.1?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;">
-<a href="https://github.com/abhay-byte/MedApp-V2.1"><img src="https://raw.githubusercontent.com/abhay-byte/MedApp-V2.1/master/Screenshots/1.PNG" width="100%" loading="lazy" style="background:#3c3836 url(assets/loading.svg) center/cover;min-height:180px;border-radius:6px;" alt="MedApp-V2.1"/></a>
+<a href="https://github.com/abhay-byte/MedApp-V2.1"><img src="https://raw.githubusercontent.com/abhay-byte/MedApp-V2.1/master/Screenshots/1.PNG" width="100%" alt="MedApp-V2.1"/></a>
 </td>
 </tr>
 </tbody>
