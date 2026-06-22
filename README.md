@@ -177,6 +177,16 @@ Interactive 3D portfolio website built with Three.js.<br><br>
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/assets/icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/warden-protocol"><b>Warden Protocol</b></a></h3>
+Single-player Android strategy game where you act as bunker intelligence for survivors.<br><br>
+<a href="https://github.com/abhay-byte/warden-protocol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.wardenprotocol"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/warden-protocol/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/warden-protocol/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2e7d32" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/warden-protocol/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/warden-protocol?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/warden-protocol"><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="Warden Protocol"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nativecode"><b>NativeCode</b></a></h3>
 Local AI development environment on Android — run LLMs, code editors, and dev tools on-device.<br><br>
 <a href="https://github.com/abhay-byte/nativecode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nativecode/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nativecode?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
@@ -223,16 +233,6 @@ Next-generation daily task management app with a 24-hour visual timeline and lif
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/TaskStack"><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="TaskStack"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/assets/icon.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/warden-protocol"><b>Warden Protocol</b></a></h3>
-Single-player Android strategy game where you act as bunker intelligence for survivors.<br><br>
-<a href="https://github.com/abhay-byte/warden-protocol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.wardenprotocol"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/warden-protocol/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/warden-protocol/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2e7d32" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/warden-protocol/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/warden-protocol?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/warden-protocol"><img src="https://raw.githubusercontent.com/abhay-byte/warden-protocol/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="Warden Protocol"/></a>
 </td>
 </tr>
 <tr>
