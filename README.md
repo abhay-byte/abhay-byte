@@ -232,7 +232,7 @@ Android Disk Space Analyzer (WizTree/WinDirStat equivalent).<br><br>
 <a href="https://github.com/abhay-byte/Adirstat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.adirstat"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://github.com/abhay-byte/Adirstat/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/Adirstat?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/Adirstat"><img src="assets/adirstat-feature.png" width="100%" alt="Adirstat"/></a>
+<a href="https://github.com/abhay-byte/Adirstat"><img src="assets/adirstat.gif" width="100%" alt="Adirstat"/></a>
 </td>
 </tr>
 <tr>
