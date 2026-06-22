@@ -167,6 +167,16 @@ Interactive website built with WebGL for stunning 3D graphics and animations.<br
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3>✨ <a href="https://github.com/abhay-byte/threejs_portfolio"><b>ThreeJS Portfolio</b></a></h3>
+Interactive 3D portfolio website built with Three.js.<br><br>
+<a href="https://github.com/abhay-byte/threejs_portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://abhay-byte.web.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Website"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/threejs_portfolio"><img src="assets/threejs-portfolio.gif" width="100%" alt="ThreeJS Portfolio"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://raw.githubusercontent.com/abhay-byte/nativecode/master/assets/logo/logo.webp" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/nativecode"><b>NativeCode</b></a></h3>
 Local AI development environment on Android — run LLMs, code editors, and dev tools on-device.<br><br>
 <a href="https://github.com/abhay-byte/nativecode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/nativecode/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/nativecode?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
@@ -183,16 +193,6 @@ AI-powered investment growth predictor with monthly contribution simulations, CS
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/AI_WRAPPER_PROJECTS"><img src="https://raw.githubusercontent.com/abhay-byte/threejs_portfolio/main/public/images/investment-growth-screenshot.png" width="100%" alt="Investment Growth Prediction"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3>✨ <a href="https://github.com/abhay-byte/threejs_portfolio"><b>ThreeJS Portfolio</b></a></h3>
-Interactive 3D portfolio website built with Three.js.<br><br>
-<a href="https://github.com/abhay-byte/threejs_portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://abhay-byte.web.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Website"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/threejs_portfolio"><img src="assets/threejs-portfolio.gif" width="100%" alt="ThreeJS Portfolio"/></a>
 </td>
 </tr>
 <tr>
