@@ -232,7 +232,7 @@ Next-generation daily task management app with a 24-hour visual timeline and lif
 <a href="https://github.com/abhay-byte/TaskStack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://github.com/abhay-byte/TaskStack/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/TaskStack?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/TaskStack"><img src="https://raw.githubusercontent.com/abhay-byte/TaskStack/main/fastlane/metadata/android/en-US/images/featureGraphic.png" width="100%" alt="TaskStack"/></a>
+<a href="https://github.com/abhay-byte/TaskStack"><img src="assets/taskstack-feature.png" width="100%" alt="TaskStack"/></a>
 </td>
 </tr>
 <tr>
