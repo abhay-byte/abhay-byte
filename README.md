@@ -47,22 +47,22 @@ Run full Linux desktop environments on Android with GPU acceleration and dev sta
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<h3><img src="https://raw.githubusercontent.com/abhay-byte/finalbenchmark-platform/main/assets/logo_2.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/finalbenchmark-platform"><b>FinalBenchmark 2</b></a></h3>
-Comprehensive CPU benchmarking app with 10+ tests and thermal management.<br><br>
-<a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/finalbenchmark-platform/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/finalbenchmark-platform/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2e7d32" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/finalbenchmark-platform/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/finalbenchmark-platform?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
-</td>
-<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
-<a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="assets/FinalBenchmark2.gif" width="100%" alt="FinalBenchmark 2"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <h3><img src="https://github.com/abhay-byte/mkm/raw/main/assets/logo.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/mkm"><b>MKM</b></a></h3>
 Minimal Kernel Manager for persistent swap management with Shizuku support.<br><br>
 <a href="https://github.com/abhay-byte/mkm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://play.google.com/store/apps/details?id=com.ivarna.mkm"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/></a> <a href="https://f-droid.org/packages/com.ivarna.mkm"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/mkm/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/mkm/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2e7d32" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/mkm/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/mkm?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
 </td>
 <td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
 <a href="https://github.com/abhay-byte/mkm"><img src="assets/MKM.gif" width="100%" alt="MKM"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<h3><img src="https://raw.githubusercontent.com/abhay-byte/finalbenchmark-platform/main/assets/logo_2.png" width="32" align="absmiddle"/> <a href="https://github.com/abhay-byte/finalbenchmark-platform"><b>FinalBenchmark 2</b></a></h3>
+Comprehensive CPU benchmarking app with 10+ tests and thermal management.<br><br>
+<a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://f-droid.org/packages/com.ivarna.finalbenchmark2"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" alt="F-Droid"/></a> <a href="https://github.com/abhay-byte/finalbenchmark-platform/releases"><img src="https://img.shields.io/github/downloads/abhay-byte/finalbenchmark-platform/total?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2e7d32" alt="Downloads"/></a> <a href="https://github.com/abhay-byte/finalbenchmark-platform/stargazers"><img src="https://img.shields.io/github/stars/abhay-byte/finalbenchmark-platform?style=for-the-badge&labelColor=282828&color=fabd2f&logo=github&logoColor=white" alt="Stars"/></a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding:18px 12px;border-bottom:1px solid #3c3836;">
+<a href="https://github.com/abhay-byte/finalbenchmark-platform"><img src="assets/FinalBenchmark2.gif" width="100%" alt="FinalBenchmark 2"/></a>
 </td>
 </tr>
 <tr>
