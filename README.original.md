@@ -75,3 +75,12 @@ Check out my latest resume with all my experience, skills, and achievements!
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abhay-byte?cardType=github&theme=gruvbox&fontFamily=&preferLogin=false&borderRadius=4)](https://git.io/awesome-stats-card)
 
 [![Trophies](https://hacked-github-stat-trophies.vercel.app/?username=abhay-byte&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔧 Troubleshooting
+
+### Shizuku Not Detected / "No Process Found"
+If MKM or other integrated apps fail to detect Shizuku or report that it is not running:
+1. Ensure the **Shizuku** app is installed from [F-Droid](https://f-droid.org/packages/moe.shizuku.privileged.api) or the Play Store.
+2. Start Shizuku using **ADB** (USB debugging), **Wireless Debugging** (Android 11+), or a rooted bootloader. Simply installing the app is not enough; the Shizuku service must be actively running in the background.
+3. Go to **Settings > Apps > Shizuku** and ensure it has all required permissions and is not restricted by battery optimization or auto-launch blockers.
+4. Restart the target app. If the issue persists, try reinstalling Shizuku or using an alternative ADB connection method.
